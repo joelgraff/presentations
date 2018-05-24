@@ -53,12 +53,12 @@
 <span style = "font-size: 150%">
  I may only eat the cake:
  </span>
-<br>
+<br><br>
 
 @ul
 <span style = "font-size: 125%">
  - With my 3rd cousin.  Twice removed.
- - Using my pinky finger
+ - Using my pinky finger.
  - On the third Thursday of the month.
  - Because the baker **said so.**
  </span>
@@ -71,12 +71,13 @@
 
 +++
 
-### **When you install software,**
-### **That's the part where you go,**
+### When you install software,
+### The **EULA** is the part
+### where you go,
 <br>
 <span style = "font-size: 150%">
 Scroll, scroll, scroll...
-<br>
+<br><br>
 and click "I Agree"
 </span>
 
