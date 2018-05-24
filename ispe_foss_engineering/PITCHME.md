@@ -24,8 +24,10 @@
 
  ## **Software** is like **cake.**
 
-  - It's recipe is **source code** |
-  - And it's a **secret** |
+@ul
+  - It's recipe is its **source code**
+  - And it's a **secret**
+@ulend
 
 +++
 
