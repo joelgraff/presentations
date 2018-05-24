@@ -17,7 +17,7 @@
 ### to create
 <br>
 ## weapons of mass destruction
-<br><br><br>
+<br><br><br><br>
 [iTunes EULA, Part (G)(g)](https://www.apple.com/legal/internet-services/itunes/us/terms.html)
 
 +++
@@ -57,25 +57,17 @@
 
 ## If you use **prorpietary** technology
 <br>
-## You have no expectation
-<br>
-## your data remains private.
+## Your data is not private.
 
 ---
 
 ### This is why
 ## ***Free and Open Source Software *** 
-### matters.
+### (FOSS) matters.
 
 +++
 
-## **Free and Open Source Software (FOSS)**
-<br>
-## is freely licensed.
-
-+++
-
-## Using FOSS means:
+## FOSS is freely licensed.  That means:
 <br><br>
 @ul
 <span style = "font-size: 125%">
