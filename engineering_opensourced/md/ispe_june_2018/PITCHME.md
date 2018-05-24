@@ -14,7 +14,7 @@
 <br>
 # .  .  .
 <br>
-## But I don't bake
+## But **I don't bake**
 
 +++
 
@@ -42,15 +42,20 @@
 
 +++
 
-### **One day, I go buy a cake.**
-<br><br>
-### Before I pay she says,
+### **One day, I go to the bakery**
+### ***to buy a cake.**
+
++++
+
+### Before I can pay for it,
+### the cashier says,
+<br>
 ## "Sign this **contract**"
 
 +++
 
 <br><br>
-## The **terms**?
+## I review the **terms**
 <br>
 ### I may:
 <br>
