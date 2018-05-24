@@ -1,6 +1,6 @@
-# Flux
+# Engineering, Open-Sourced.
 
-An application architecture for React
+The future of engineering software and design.
 
 ---
 
