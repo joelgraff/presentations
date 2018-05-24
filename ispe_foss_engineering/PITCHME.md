@@ -5,7 +5,7 @@
 
 ---
 
-### Flux Design
+## I like #**cake.**
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle STate & Logic
