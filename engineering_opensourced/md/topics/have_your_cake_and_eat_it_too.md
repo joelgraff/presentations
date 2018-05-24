@@ -5,14 +5,17 @@
 
 +++
 
-## Some **funny things** 
+## Some 
+## *funny things** 
 ## end up in EULAs
 
 +++
 
 ### **iTunes** makes it clear 
 ## it is **not to be used**
+<br>
 ### to create
+<br>
 ## weapons of mass destruction
 <br><br><br>
 [iTunes EULA, Part (G)(g)](https://www.apple.com/legal/internet-services/itunes/us/terms.html)
@@ -20,24 +23,28 @@
 +++
 
 #### and **Google** says they
+<br>
 ### read your email,
 ### scan your files,
 #### and can re-use
 ### ***anything you create***
-#### on their services
-#### for their purposes.
+<br>
+### on their services
+### for their purposes.
 <br><br><br>
 [Google Terms of Service, <br> "Your Content in our Services"](https://policies.google.com/terms)
 
 +++
 
 ## And don't forget **Facebook**.
-<br><br>
+
++++
+
 ### Security reserachers established that
-### Facebook reads your private messages
+## Facebook reads your private messages
 ### to advertise to you.
 
-[So Facebook allegedly reads your private messages ...](https://www.zdnet.com/article/so-facebook-alledgedly-reads-your-private-messages-but-what-about-google)
+[So Facebook allegedly reads<br>your private messages ...](https://www.zdnet.com/article/so-facebook-alledgedly-reads-your-private-messages-but-what-about-google)
 
 +++
 
@@ -46,12 +53,9 @@
 +++
 
 ## If you use **prorpietary** technology
-### (tech hat's controlled by a private entity),
 <br>
-## You have no real expectation 
+## You have no expectation 
 ## that your data remains private.
-<br>
-### (And you may lose control of it)
 
 ---
 
@@ -62,18 +66,21 @@
 +++
 
 ## Free and Open Source Software (FOSS)
+<br>
 ## is freely licensed.
 
 +++
 
-## Generally, using FOSS means:
+## Using FOSS means:
 
 @ul
+<span style = "font-size: 125%">
 - You get the source code (the recipe)
-- No one can charge you for the software
-- You can use it as you see fit
-- You can modify it (change the recipe)
+- No one can charge you
+- You can use / copy as you see fit
+- You can modify (change the recipe)
 - You can give it away
+</span>
 @ulend
 
 +++
