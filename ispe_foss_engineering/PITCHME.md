@@ -10,7 +10,7 @@
 +++
 
 ## I like coffee cake
-|
+
 ### with nuts.
 
 +++
