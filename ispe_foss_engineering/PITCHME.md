@@ -12,7 +12,7 @@
 ## I like coffee cake.
 #### (with nuts)
 <br>
-# . . .
+# .  .  .
 <br>
 ## But I don't bake
 
@@ -76,23 +76,27 @@ Scroll, scroll, scroll...
 <br>
 Click "I Agree"
 </span>
-<br>
-### when you install the software
+<br><br><br>
+### when you install
+### the software
+
 +++
 
 ### And you **must** agree to
 <br><br>
-## any condition
+## __**any condition**__
 <br>
 ### in the EULA
 <br>
-__**(so long as it's not illegal)**__
+**(so long as it's not illegal)**
 
 +++
 
+## Now,
 ## If I were buying a **cake**,
 <br>
 ### I'd probably look at the baker 
+<br>
 ## and say...
 
 ---
