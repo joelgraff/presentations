@@ -35,15 +35,14 @@
 @ul
 <span style="font-size: 150%">
   - It's **source code** is the recipe
-  <br>
   - And that's a **secret**, too.
 </span>
 @ulend
 
 +++
 
-### **One day, I go to the bakery**
-### ***to buy a cake.**
+### One day, I go to the bakery
+### to buy a cake.
 
 +++
 
@@ -57,10 +56,12 @@
 <br><br>
 ## I review the **terms**.
 <br>
-### I may eat only the cake:
+<span style = "font-size: 150%">
+ I may only eat the cake:
+ </span>
 <br>
 @ul
-<span style="font-size:125%">
+<span style = "font-size: 125%">
  - With my 3rd cousin.  Twice removed.
  - Using my pinky finger
  - On the third Thursday of the month.
