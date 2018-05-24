@@ -35,7 +35,8 @@
 @ul
 <span style="font-size: 150%">
   - It's **source code** is the recipe
-  - ####And that's a **secret**, too.
+  <br>
+  - And that's a **secret**, too.
 </span>
 @ulend
 
@@ -43,22 +44,22 @@
 
 ### **One day, I go buy a cake.**
 <br><br>
-#### Before I pay she says,
+### Before I pay she says,
 ## "Sign this **contract**"
 
 +++
 
 <br><br>
-## The terms?
+## The **terms**?
 <br>
 ### I may:
 <br>
 @ul
- - Eat the cake,
+ - Eat the cake
  - But only With my 3rd cousin.  Twice removed.
- - And I can only use my pinky finger,
+ - And I can only use my pinky finger
  - On the third Thursday of the month.
- - **Because the baker said so.**
+ - Because the baker **said so.**
 @ulend
 
 +++
@@ -68,32 +69,31 @@
 
 +++
 
-### That's the part where you go
+#### **That's the part where you go,**
 <br>
-@ul
+<span style = "font-size: 150%">
 Scroll, scroll, scroll...
 Click "I Agree"
-@ulend
+</span>
 <br>
-#### when you install software
+#### when you install the software
 +++
 
 ### And you **must** agree to
 <br><br>
 ## any condition
 <br><br>
-#### (so long as it's not illegal)
+### in the EULA
+####__(so long as it's not illegal)__
 
 +++
 
-### If I were buying a cake,
+## If I were buying a **cake**,
 <br>
-### I'd probably look at the baker and say...
+### I'd probably look
+### at the baker 
+### and say...
 
 ---
 
 ### Actually, I like **kale.**
-
----
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
