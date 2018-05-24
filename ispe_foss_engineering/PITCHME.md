@@ -6,15 +6,18 @@
 ---
 
 ## I like **cake.**
-<br><br>
-@ul
- - I don't bake
- - My favorite bakery makes great cake!
-@ulend
 
 +++
 
-## I can buy all the cake I want.
+## I like coffee cake.
+#### (with nuts)
+<br><br>
+## But,
+@ul
+ - I don't bake
+ - My local bakery makes cake
+ - I can buy all the cake I want!
+@ulend
 
 +++
 
@@ -33,19 +36,25 @@
 
 +++
 
-#### One day, I got to the bakery to buy a cake.
-#### Before I can pay her, she says, 
+#### One day, I go buy a cake.
+<br>
+#### Before I can pay she says,
+<br>
 ## "Sign this **contract**"
 
++++
+
 <br><br>
-#### The terms?
+## The terms?
+<br>
+#### I may:
 <br>
 @ul
  - Eat the cake.
- - With your 3rd cousin.  Twice removed.
- - Using only your pinky finger.
+ - With me 3rd cousin.  Twice removed.
+ - Using only my pinky finger.
  - On the third Thursday of the month.
- - Because I said so.
+ - Because the baker said so.
 @ulend
 
 +++
@@ -53,7 +62,12 @@
 #### In software, we call this the
 ## End-User License Agreement (EULA)
 
-<br><br>
++++
+
+#### That's when you install software
+<br>
+#### And you get to the part where you go:
+<br>
 @ul
  - Scroll, scroll, scroll...
  - Click "I Agree"
