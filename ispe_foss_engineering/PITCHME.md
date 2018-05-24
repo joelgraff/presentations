@@ -10,7 +10,8 @@
 +++
 
 ## I like coffee cake
-### with nuts. |
+|
+### with nuts.
 
 +++
 
@@ -19,7 +20,7 @@
  - Trade secret
  - Illegal |
 
- +++
++++
 
  ## **Software** is like **cake.**
 
