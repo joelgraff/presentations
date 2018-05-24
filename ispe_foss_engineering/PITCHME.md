@@ -11,9 +11,9 @@
 
 ## I like coffee cake.
 #### (with nuts)
-<br><br>
-# ...
-<br><br>
+<br>
+# . . .
+<br>
 ## But I don't bake
 
 +++
@@ -22,11 +22,11 @@
 
 +++
 
-### I can buy the **cake**,
+## I can buy the **cake**,
 <br>
 ## But I can't have the **recipe**
 <br>
-#### (It's a **trade secret**)
+### (It's a **trade secret**)
 
 +++
 
@@ -56,7 +56,7 @@
 <br>
 @ul
  - Eat the cake
- - But only With my 3rd cousin.  Twice removed.
+ - But only with my 3rd cousin.  Twice removed.
  - And I can only use my pinky finger
  - On the third Thursday of the month.
  - Because the baker **said so.**
@@ -69,30 +69,31 @@
 
 +++
 
-#### **That's the part where you go,**
+### **That's the part where you go,**
 <br>
 <span style = "font-size: 150%">
 Scroll, scroll, scroll...
+<br>
 Click "I Agree"
 </span>
 <br>
-#### when you install the software
+### when you install the software
 +++
 
 ### And you **must** agree to
 <br><br>
 ## any condition
-<br><br>
+<br>
 ### in the EULA
-####__(so long as it's not illegal)__
+<br>
+__**(so long as it's not illegal)**__
 
 +++
 
 ## If I were buying a **cake**,
 <br>
-### I'd probably look
-### at the baker 
-### and say...
+### I'd probably look at the baker 
+## and say...
 
 ---
 
