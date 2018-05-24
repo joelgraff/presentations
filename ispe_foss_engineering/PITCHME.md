@@ -17,21 +17,21 @@
 
 ### But I can't have the recipe.
 
- - Trade secret
+ - Trade secret |
  - Illegal |
 
 +++
 
  ## **Software** is like **cake.**
 
-  - It's recipe is **source code**
+  - It's recipe is **source code** |
   - And it's a **secret** |
 
 +++
 
 ## Sign this **contract**
 
- - Eat the cake
+ - Eat the cake |
  - With your 3rd cousin.  Twice removed. |
  - Using only your pinky finger. |
  - On the third Thursday of the month. |
