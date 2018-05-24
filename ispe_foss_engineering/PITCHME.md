@@ -12,6 +12,8 @@
 ## I like coffee cake.
 #### (with nuts)
 <br><br>
+# ...
+<br><br>
 ## But I don't bake
 
 +++
@@ -20,27 +22,28 @@
 
 +++
 
-### I can buy all the cake I want,
+### I can buy the **cake**,
 <br>
-## But I can't have the recipe.
-
-#### (It's a trade secret)
+## But I can't have the **recipe**
+<br>
+#### (It's a **trade secret**)
 
 +++
 
 ## **Software** is like **cake.**
 <br><br>
 @ul
+<span style="font-size: 150%">
   - It's **source code** is the recipe
-  - And that's a **secret**, too.
+  - ####And that's a **secret**, too.
+</span>
 @ulend
 
 +++
 
-### One day, I go buy a cake.
-<br>
-#### Before I can pay she says,
-<br>
+### **One day, I go buy a cake.**
+<br><br>
+#### Before I pay she says,
 ## "Sign this **contract**"
 
 +++
