@@ -55,16 +55,17 @@
 +++
 
 <br><br>
-## I review the **terms**
+## I review the **terms**.
 <br>
-### I may:
+### I may eat only the cake:
 <br>
 @ul
- - Eat the cake
- - But only with my 3rd cousin.  Twice removed.
- - And I can only use my pinky finger
+<span style="font-size:125%">
+ - With my 3rd cousin.  Twice removed.
+ - Using my pinky finger
  - On the third Thursday of the month.
  - Because the baker **said so.**
+ </span>
 @ulend
 
 +++
@@ -74,16 +75,14 @@
 
 +++
 
+### **When you install software,**
 ### **That's the part where you go,**
 <br>
 <span style = "font-size: 150%">
 Scroll, scroll, scroll...
 <br>
-Click "I Agree"
+and click "I Agree"
 </span>
-<br><br><br>
-### when you install
-### the software
 
 +++
 
@@ -99,6 +98,8 @@ Click "I Agree"
 
 ## Now,
 ## If I were buying a **cake**,
+## that had a **EULA**,
+<br>
 <br>
 ### I'd probably look at the baker 
 <br>
