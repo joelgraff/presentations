@@ -15,11 +15,11 @@
 
 +++
 
-### Community support ensures:
+### Community and paid support help ensure:
 <br>
 @ul
  - Software security issues are fixed
- - Users get forum support
+ - Users get support
  - Most valuable features are developed
 @ulend
 
@@ -27,6 +27,8 @@
 
 ## It doesn't look / act like
 ## my favorite applications...
+<br><br>
+### **(Feature-parity fallacy)**
 
 +++
 
@@ -36,6 +38,8 @@
 +++
 
 ### FOSS projects aren't trying to 
-### beat the competition.  
-### They trying to 
-### serve the community.
+### **beat** the competition or
+### make a **profit**.
+<br><br>
+### They are trying to 
+### **serve** the community.

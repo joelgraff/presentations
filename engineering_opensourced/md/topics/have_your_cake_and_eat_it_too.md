@@ -63,11 +63,14 @@
 
 ### This is why
 ## ***Free and Open Source Software *** 
-### (FOSS) matters.
+## (FOSS) 
+### matters.
 
 +++
 
-## FOSS is freely licensed.  That means:
+## FOSS is freely licensed.
+<br>
+### That means:
 <br><br>
 @ul
 <span style = "font-size: 125%">
@@ -81,7 +84,7 @@
 +++
 
 ## Best of all, FOSS is
-## more **secure**
+## more **secure**,
 ## and
 ## respects your **privacy**
 ## and your **freedom**
