@@ -55,11 +55,13 @@
 
 <br><br>
 ## I review the **terms**.
+
 <br>
 <span style = "font-size: 150%">
  I may only eat the cake:
  </span>
 <br>
+
 @ul
 <span style = "font-size: 125%">
  - With my 3rd cousin.  Twice removed.
