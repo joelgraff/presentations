@@ -80,10 +80,9 @@
 @ul
 <span style = "font-size: 125%">
 - You get the source code (the recipe)
-- No one can charge you
-- You can use / copy as you see fit
+- No one can charge you to use
+- You can share as you see fit
 - You can modify (change the recipe)
-- You can give it away
 </span>
 @ulend
 
@@ -91,13 +90,10 @@
 
 ## What's the catch?
 
-+++
-
 @ul
 <span style = "font-size: 125%">
  - You can't sell it.
- - If you give it away, make sure
-   the source code is available.
+ - If you give it away, make sure the source code is available.
  - Give credit where credit is due.
 </span>
 @ulend
