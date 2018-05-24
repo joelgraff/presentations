@@ -74,10 +74,10 @@
 ### When you install software,
 ### The **EULA** is the part
 ### where you go,
-<br>
+<br><br>
 <span style = "font-size: 150%">
 Scroll, scroll, scroll...
-<br><br>
+<br>
 and click "I Agree"
 </span>
 
@@ -96,8 +96,7 @@ and click "I Agree"
 ## Now,
 ## If I were buying a **cake**,
 ## that had a **EULA**,
-<br>
-<br>
+<br><br>
 ### I'd probably look at the baker 
 <br>
 ## and say...
