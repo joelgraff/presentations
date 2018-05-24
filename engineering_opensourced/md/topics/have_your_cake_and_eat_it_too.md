@@ -46,7 +46,7 @@
 ## **Facebook reads your private messages**
 <br>
 ### to advertise to you.
-<br><br>
+<br><br><br><br>
 [So Facebook allegedly reads<br>your private messages ...](https://www.zdnet.com/article/so-facebook-alledgedly-reads-your-private-messages-but-what-about-google)
 
 +++
@@ -80,22 +80,23 @@
 @ul
 <span style = "font-size: 125%">
 - You get the source code (the recipe)
-- No one can charge you to use
-- You can share as you see fit
-- You can modify (change the recipe)
+- No one can charge you to use it
+- You can share it as you see fit
+- You can modify it (change the recipe)
 </span>
 @ulend
 
 +++
 
-## What's the catch?
-
-@ul
-<span style = "font-size: 125%">
- - You can't sell it.
- - If you give it away, make sure the source code is available.
- - Give credit where credit is due.
-</span>
-@ulend
+## Best of all, FOSS is
+## more **secure**
+## and
+## respects your **privacy**
+## and your **freedom**
 
 +++
+
+## In other words,
+<br>
+## You can have your cake
+## and eat it, too.
