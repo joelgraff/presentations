@@ -6,7 +6,7 @@
 +++
 
 ## Some 
-## *funny things** 
+## **funny things** 
 ## end up in EULAs
 
 +++
@@ -22,10 +22,11 @@
 
 +++
 
-#### and **Google** says they
+### and **Google** says they
 <br>
-### read your email,
-### scan your files,
+### **read your email**,
+### **scan your files**,
+<br>
 #### and can re-use
 ### ***anything you create***
 <br>
@@ -36,14 +37,16 @@
 
 +++
 
-## And don't forget **Facebook**.
+## don't forget **Facebook**.
 
 +++
 
-### Security reserachers established that
-## Facebook reads your private messages
+### Security reserachers have established
+<br>
+## **Facebook reads your private messages**
+<br>
 ### to advertise to you.
-
+<br><br>
 [So Facebook allegedly reads<br>your private messages ...](https://www.zdnet.com/article/so-facebook-alledgedly-reads-your-private-messages-but-what-about-google)
 
 +++
@@ -54,8 +57,9 @@
 
 ## If you use **prorpietary** technology
 <br>
-## You have no expectation 
-## that your data remains private.
+## You have no expectation
+<br>
+## your data remains private.
 
 ---
 
@@ -65,14 +69,14 @@
 
 +++
 
-## Free and Open Source Software (FOSS)
+## **Free and Open Source Software (FOSS)**
 <br>
 ## is freely licensed.
 
 +++
 
 ## Using FOSS means:
-
+<br><br>
 @ul
 <span style = "font-size: 125%">
 - You get the source code (the recipe)
@@ -87,10 +91,15 @@
 
 ## What's the catch?
 
-### If you redistribute FOSS,
-### you can't charge for it,
-### you must enesure 
-### the source code is available,
-### and give credit where credit is due.
++++
+
+@ul
+<span style = "font-size: 125%">
+ - You can't sell it.
+ - If you give it away, make sure
+   the source code is available.
+ - Give credit where credit is due.
+</span>
+@ulend
 
 +++
