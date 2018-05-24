@@ -5,11 +5,11 @@
 
 ---
 
-## I like #**cake.**
+## I like **cake.**
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle STate & Logic
-- Views: Render Data via React
+---
+
+### Actually, I like **kale.**
 
 ---
 
