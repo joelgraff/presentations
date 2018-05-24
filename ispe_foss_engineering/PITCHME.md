@@ -7,6 +7,36 @@
 
 ## I like **cake.**
 
++++
+
+## I like coffee cake
+@fa[arrow-down]
+### with nuts.
+
++++
+
+### But I can't have the recipe.
+@fa[arrow-down]
+ - Trade secret |
+ - Illegal |
+
+ +++
+
+ ## **Software** is like **cake.**
+ @fa[arrow-down]
+  - It's recipe is **source code** |
+  - And it's a **secret** |
+
++++
+
+## Sign this **contract**
+@fa[arrow-down]
+ - Eat the cake
+ - With your 3rd cousin.  Twice removed. |
+ - Using only your pinky finger. |
+ - On the third Thursday of the month. |
+ - Because I said so. |
+
 ---
 
 ### Actually, I like **kale.**
