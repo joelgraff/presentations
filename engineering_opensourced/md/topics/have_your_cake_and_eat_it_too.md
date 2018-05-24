@@ -20,9 +20,10 @@
 +++
 
 ### and **Google** says they
-### read your **email**,
-### scan your **files**,
-### and use ***anything you create***
-### however they like.
+### read your email,
+### scan your files,
+### and can re-use
+### ***anything you create***
+### for their purposes.
 <br><br><br>
-[Google Terms of Service](https://www.google.com)
+[Google Terms of Service, <br> "Your Content in our Services](https://policies.google.com/terms)
