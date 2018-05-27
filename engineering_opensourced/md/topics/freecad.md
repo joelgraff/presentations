@@ -1,9 +1,9 @@
 ## FreeCAD
 
 <div class="left-50">
+<br>
 ![FREECAD](engineering_opensourced/assets/images/freecad.png)
 </div>
-<br>
 @div[right-50]
 <span style="font-size:90%">
 @ul
