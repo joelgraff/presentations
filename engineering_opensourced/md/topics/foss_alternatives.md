@@ -17,3 +17,13 @@ What FOSS options are available?
 <br><br>
 ![LIBREOFFICE](engineering_opensourced/assets/images/libreoffice.png)
 </div>
+
+<div class="right-50">
+<br><br>
+![OFFICE365](engineering_opensourced/assets/images/office365.png)
+</div>
+
+<div class="right-50">
+<br><br>
+![COLLABORA](engineering_opensourced/assets/images/collabora_online.png)
+</div>
