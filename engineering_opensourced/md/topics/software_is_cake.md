@@ -2,105 +2,124 @@
 
 +++
 
-## I like coffee cake.
-#### (with nuts)
+<span style = "font-size:150%">
+I like coffee cake.<br>
+</span>
+(with nuts)
 <br>
 # .  .  .
 <br>
-## But **I don't bake**
-
-+++
-
-## My local bakery makes **really good cake**
-
-+++
-
-## I can buy the **cake**,
-<br>
-## But I can't have the **recipe**
-<br>
-### (It's a **trade secret**)
-
-+++
-
-## **Software** is like **cake.**
-<br><br>
-@ul
-<span style="font-size: 150%">
-  - It's **source code** is the recipe
-  - And that's a **secret**, too.
+<span style = "font-size:150%">
+But **I don't bake**
 </span>
-@ulend
++++
+
+<span style="font-size:150%">
+My local bakery makes <br>**really** good cake
+</span>
++++
+
+<span style="font-size:150%">
+I can buy the cake,
+<br><br>
+but I can't have the recipe
+<br><br>
+</span>
+(It's a **trade secret**)
 
 +++
 
-### One day, I go to the bakery
-### to buy a cake.
+<span style="font-size:150%">
+**Software** is like **cake.**
+</span>
+<br><br>
+<ul class=" ">
+<span style="font-size: 125%">
+<li class="fragment li-nested-item" data-notes=" ">It's source code is the recipe</li>
+<li class="fragment li-nested-item" data-notes=" ">And that's a secret, too</li>
+</span>
+</ul>
 
 +++
 
-### Before I can pay for it,
-### the cashier says,
-<br>
-## "Sign this **contract**"
+<span style="font-size:150%">
+One day, I go to the bakery<br>to buy a cake.
+</span>
++++
+
+<span style="font-size:125%">
+But before I can pay for it,<br>
+the cashier says,
+</span>
+<br><br><br>
+<span style="font-size:150%">
+"Sign this **contract**"
+</span>
 
 +++
 
 <br><br>
-## I review the **terms**.
-
-<br>
-<span style = "font-size: 150%">
+<span style="font-size:150%">
+I review the **terms**.
+</span>
+<br><br><br>
+<span style = "font-size: 125%">
  I may only eat the cake:
  </span>
 <br><br>
 
-@ul
-<span style = "font-size: 125%">
- - With my 3rd cousin.  Twice removed.
- - Using my pinky finger.
- - On the third Thursday of the month.
- - Because the baker **said so.**
- </span>
-@ulend
+<ul class=" ">
+<li class="fragment li-nested-item" data-notes=" ">With my 3rd cousin.  Twice removed.</li>
+<li class="fragment li-nested-item" data-notes=" ">Using my hands.</li>
+<li class="fragment li-nested-item" data-notes=" ">On the first Thursday of the month.</li>
+<li class="fragment li-nested-item" data-notes=" ">Because the baker **said so.**</li>
+</ul>
 
 +++
 
-#### It's also called an
+In software, we call this the<br>
 ## End-User License Agreement (EULA)
 
 +++
 
-### When you install software,
-### The **EULA** is the part
-### where you go,
+<span style="font-size:125%">
+When you install software,<br>
+The **EULA** is the part<br>
+where you
 <br><br>
-<span style = "font-size: 150%">
+<!--span style = "font-size: 150%"-->
 Scroll, scroll, scroll...
-<br>
+<br><br>
 and click "I Agree"
 </span>
 
 +++
 
-### And you **must** agree to
-<br><br>
+<span style="font-size:125%">
+And you **must** agree to
+</span>
+<br><br><br>
 ## __**any condition**__
+<br><br>
+<span style="font-size:125%">
+in the EULA
+</span>
 <br>
-### in the EULA
-<br>
-**(so long as it's not illegal)**
+(so long as it's not illegal)
 
 +++
 
-## Now,
-## If I were buying a **cake**,
-## that had a **EULA**,
+<span style="font-size:150%">
+If I were buying a cake<br>
+that had a **EULA**,
 <br><br>
-### I'd probably look at the baker 
+</span>
+I'd probably look at the baker 
 <br>
-## and say...
+and say . . .
 
 ---
 
-### Actually, I like **kale.**
+<span style = "font-size:150%">
+Actually, I like **kale.**
+</span>

@@ -1,97 +1,116 @@
-## So what's in a **EULA**?
+<span style="font-size:150%">
+So what's in a **EULA**?
+</span>
 <br><br>
-### That depends on 
-### who you ask.
+
+That depends on who you ask.
 
 +++
 
-## Some 
-## **funny things** 
-## end up in EULAs
+<span style="font-size:150%">
+Some <br><br>
+**funny things**<br><br>
+end up in EULAs . . .
+</span>
 
 +++
 
-### **iTunes** makes it clear 
-## it is **not to be used**
-<br>
-### to create
-<br>
-## weapons of mass destruction
-<br><br><br><br>
-[iTunes EULA, Part (G)(g)](https://www.apple.com/legal/internet-services/itunes/us/terms.html)
-
-+++
-
-### and **Google** says they
-<br>
-### **read your email**,
-### **scan your files**,
-<br>
-#### and can re-use
-### ***anything you create***
-<br>
-### on their services
-### for their purposes.
+<span style="font-size:150%">
+**Apple** is very clear<br>
+that iTunes is not to be used<br>
+to create<br><br>
+## ***weapons of mass destruction***
 <br><br><br>
-[Google Terms of Service, <br> "Your Content in our Services"](https://policies.google.com/terms)
+<span style="font-size: 50%">
+[iTunes EULA, Part (G)(g)](https://www.apple.com/legal/internet-services/itunes/us/terms.html)
+</span>
++++
+
+and **Google** says they<br>
+<span style="font-size:150%">
+**read your email**,<br>
+**scan your files**,<br><br>
+</span>
+and can re-use<br>
+<span style="font-size:150%"> 
+***anything you create***<br><br>
+</span>
+on their services for their purposes.
+<br><br><br>
+<span style="font-size: 50%">
+[Google Terms of Service, "Your Content in our Services"](https://policies.google.com/terms)
+</span>
++++
+
+## don't forget **Facebook**
 
 +++
 
-## don't forget **Facebook**.
+Security researchers have established
+<br><br><br>
+<span style="font-size:150%">
+Facebook reads<br>
+your **private messages**<br><br>
+</span>
 
-+++
-
-### Security reserachers have established
-<br>
-## **Facebook reads your private messages**
-<br>
-### to advertise to you.
+to advertise to you.
 <br><br><br><br>
-[So Facebook allegedly reads<br>your private messages ...](https://www.zdnet.com/article/so-facebook-alledgedly-reads-your-private-messages-but-what-about-google)
+<span style = "font-size:50%">
+["So Facebook allegedly reads your private messages ..."](https://www.zdnet.com/article/so-facebook-alledgedly-reads-your-private-messages-but-what-about-google)
+</span>
 
 +++
 
-## The moral of the story is simple.
+<span style="font-size:150%">
+The moral of the story?
+</span>
 
 +++
 
-## If you use **prorpietary** technology
-<br>
-## Your data is not private.
+<span style="font-size:150%">
+If you use **proprietary** technology,
+<br><br>
+your data is not private.
+</span>
 
 ---
 
-### This is why
-## ***Free and Open Source Software *** 
-## (FOSS) 
-### matters.
-
-+++
-
-## FOSS is freely licensed.
-<br>
-### That means:
+<span style = "font-size:150%">
+This is why
 <br><br>
-@ul
-<span style = "font-size: 125%">
-- You get the source code (the recipe)
-- No one can charge you to use it
-- You can share it as you see fit
-- You can modify it (change the recipe)
+***Free and Open Source Software *** 
+(FOSS)
+<br><br>
+matters.
 </span>
-@ulend
 
 +++
 
-## Best of all, FOSS is
-## more **secure**,
-## and
-## respects your **privacy**
-## and your **freedom**
+<span style="font-size:150%">
+FOSS is freely licensed.
+</span>
+<br><br>
+<ul class=" ">
+<li class="fragment  " data-notes=" ">You get the source code</li>
+<li class="fragment  " data-notes=" ">You can modify it</li>
+<li class="fragment  " data-notes=" ">No one can charge you to use it</li>
+<li class="fragment  " data-notes=" ">You can share it as you see fit</li>
+</ul>
 
 +++
 
-## In other words,
-<br>
-## You can have your cake
-## and eat it, too.
+<span style = "font-size:150%">
+FOSS licensing means<br>
+<ul class=" ">
+<li class="fragment  " data-notes=" ">Greater security</li>
+<li class="fragment  " data-notes=" ">Better privacy</li>
+<li class="fragment  " data-notes=" ">Fewer intellectual property (IP) issues</li>
+</span>
+
++++
+
+In other words, you can<br><br>
+
+<span style="font-size:150%">
+have your cake and eat it, too.
+</span>

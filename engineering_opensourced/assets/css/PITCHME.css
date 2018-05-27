@@ -2,3 +2,8 @@
     width: 100%;
     box-shadow : none;
   }
+
+.reveal section img {
+    border: 0;
+    box-shadow: none;
+}
