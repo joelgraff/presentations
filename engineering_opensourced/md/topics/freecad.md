@@ -6,12 +6,12 @@
 
 @div[right-50]
 @ul
- - OpenCASCADE geometry kernel
+ - OpenCASCADE kernel
  - Fully parametric
- - Modular workbench architecture
- - Directly supports many standard data formats
- - Architecture / BIM / IFC support
- - CAM / CNC g-code support
+ - Modular workbenches
+ - Supports standard data formats
+ - Architecture / BIM / IFC
+ - CAM / CNC g-code
  - 2D sheet support
 @ulend
 @divend
