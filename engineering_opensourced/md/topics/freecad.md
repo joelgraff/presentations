@@ -5,6 +5,7 @@
 ![FREECAD](engineering_opensourced/assets/images/freecad.png)
 </div>
 @div[right-50]
+<br>
 <span style="font-size:90%">
 @ul
  - OpenCASCADE kernel
