@@ -53,7 +53,7 @@ What FOSS options are available?
 
 <div class="right-50">
 <br><br>
-![NEXTCLOUD](engineering_opensourced/assets/images/nextcloud.png)
+![NEXTCLOUD](engineering_opensourced/assets/images/nextcloud_logo.png)
 </div>
 
 +++
