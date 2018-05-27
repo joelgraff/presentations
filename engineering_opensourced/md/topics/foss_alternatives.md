@@ -7,6 +7,7 @@ What FOSS options are available?
 +++
 
 ## Office solutions
+
 <div class="left-50">
 <br><br>
 ![MSOFFICE](engineering_opensourced/assets/images/msoffice.png)
