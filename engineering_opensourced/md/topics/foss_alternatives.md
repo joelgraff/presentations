@@ -28,7 +28,7 @@ What FOSS options are available?
 ![COLLABORA](engineering_opensourced/assets/images/collabora_online.png)
 </div>
 
-++
++++
 
 ## Graphics
 
@@ -42,7 +42,7 @@ What FOSS options are available?
 ![FOSS_GRAPHICS](engineering_opensourced/assets/images/foss_graphics.png)
 </div>
 
-++
++++
 
 ## Cloud
 
@@ -56,7 +56,7 @@ What FOSS options are available?
 ![NEXTCLOUD](engineering_opensourced/assets/images/nextcloud.png)
 </div>
 
-++
++++
 
 ## Operating Systems
 
