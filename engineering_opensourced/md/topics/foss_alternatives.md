@@ -1,8 +1,6 @@
 [/]: # "what_open_source_engineering"
 
-<span style="font-size:150%">
-What FOSS options are available?
-</span>
+## FOSS Options
 
 +++
 
@@ -69,3 +67,35 @@ What FOSS options are available?
 <br><br>
 ![LINUX](engineering_opensourced/assets/images/Linux_logo.png)
 </div>
+
++++
+
+## Engineering
+
+FEM:
+@ul
+ - CalculiX
+ - Elmer
+ - OpenFOAM (CFD)
+@ulend
+
++++
+
+## Engineering
+
+2D CAD:
+@ul
+ - KiCAD (Electronic / PCB design)
+ - LibreCAD (AutoCAD)
+@ulend
+
++++
+
+## Engineering
+
+3D CAD:
+@ul
+ - OpenSCAD (Script only)
+ - BRL CAD (US Military ballistics)
+ - FreeCAD (General Purpose)
+@ulend
