@@ -18,7 +18,7 @@ What FOSS options are available?
 ![LIBREOFFICE](engineering_opensourced/assets/images/libreoffice.png)
 </div>
 
-<div class="right-50">
+<div class="left-50">
 <br><br>
 ![OFFICE365](engineering_opensourced/assets/images/office365.png)
 </div>
