@@ -67,5 +67,5 @@ What FOSS options are available?
 
 <div class="right-50">
 <br><br>
-![LINUX](engineering_opensourced/assets/images/linux_logo.png)
+![LINUX](engineering_opensourced/assets/images/Linux_logo.png)
 </div>
