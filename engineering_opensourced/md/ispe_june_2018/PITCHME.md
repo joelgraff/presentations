@@ -12,3 +12,5 @@
 ---?include=/engineering_opensourced/md/topics/why_foss_engineering.md
 
 ---?include=/engineering_opensourced/md/topics/foss_alternatives.md
+
+---?include=/engineering_opensourced/md/topics/freecad.md
