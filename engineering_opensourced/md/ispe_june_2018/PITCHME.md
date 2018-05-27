@@ -10,3 +10,5 @@
 ---?include=/engineering_opensourced/md/topics/foss_fallacies.md
 
 ---?include=/engineering_opensourced/md/topics/why_foss_engineering.md
+
+---?include=/engineer_opensourced/md/topics/foss_alternatives.md
