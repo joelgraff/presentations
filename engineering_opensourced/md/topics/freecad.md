@@ -9,11 +9,15 @@
 @ul
  - OpenCASCADE kernel
  - Fully parametric
- - Modular workbneches
- - Supports standard data formats
+ - Modular workbenches
+ - Sketcher 2D geometry
+ - Standard data formats
  - Architecture / BIM / IFC
+ - Robotics
  - CAM / CNC g-code
  - 2D sheet support
+ - 3D Rendering
+ - Integrated spreadsheet
 @ulend
 </span>
 @divend
