@@ -104,7 +104,7 @@ And you **must** agree to
 <span style="font-size:125%">
 in the EULA
 </span>
-<br>
+<br><br>
 (so long as it's not illegal)
 
 +++

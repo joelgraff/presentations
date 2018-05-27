@@ -112,5 +112,6 @@ FOSS licensing means<br>
 In other words, you can<br><br>
 
 <span style="font-size:150%">
-have your cake and eat it, too.
+have your cake<br>
+and eat it, too.
 </span>
