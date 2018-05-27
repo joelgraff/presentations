@@ -9,10 +9,10 @@ What FOSS options are available?
 ## Office solutions
 <div class="left-50">
 <br><br>
-![MSOFFICE](assets/md/assets/images/msoffice.png)
+![MSOFFICE](engineering_opensourced/assets/images/msoffice.png)
 </div>
 
 <div class="right-50">
 <br><br>
-![LIBREOFFICE](assets/md/assets/images/libreoffice.png)
+![LIBREOFFICE](engineering_opensourced/assets/images/libreoffice.png)
 </div>
