@@ -70,9 +70,8 @@
 
 +++
 
-## Engineering
+## Engineering - FEM
 
-FEM:
 @ul
  - CalculiX
  - Elmer
@@ -81,9 +80,8 @@ FEM:
 
 +++
 
-## Engineering
+## Engineering - 2D CAD
 
-2D CAD:
 @ul
  - KiCAD (Electronic / PCB design)
  - LibreCAD (AutoCAD)
@@ -91,9 +89,8 @@ FEM:
 
 +++
 
-## Engineering
+## Engineering - 3D CAD
 
-3D CAD:
 @ul
  - OpenSCAD (Script only)
  - BRL CAD (US Military ballistics)
