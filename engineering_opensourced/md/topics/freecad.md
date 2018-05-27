@@ -1,3 +1,3 @@
 ## FreeCAD
 
----?image=assets/images/freecad.png
+---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
