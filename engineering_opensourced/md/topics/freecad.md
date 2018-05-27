@@ -1,5 +1,3 @@
 ## FreeCAD
 
-<div class="center-50">
-![FREECAD](engineering_opensourced/assets/images/freecad.png)
-</div>
+---?image=engineering_opensourced/assets/images/freecad.png
