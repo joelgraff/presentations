@@ -1,3 +1,6 @@
 ## FreeCAD
 
-?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+<div class="right-50">
+<br><br>
+![FREECAD](engineering_opensourced/assets/images/freecadpng)
+</div>
