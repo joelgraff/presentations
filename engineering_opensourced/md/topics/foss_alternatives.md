@@ -72,11 +72,8 @@
 
 ## GIS
 
-<div class="left-50">
 <br>
-![GIS](engineering_opensourced/assets/images/gis_logos.png)
-</div>
-
+ArcGIS vs QGIS
 <div class="right-50">
 <br>
 AequilibraE
