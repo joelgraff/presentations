@@ -122,7 +122,7 @@ GNU Public License (GPL)
 
   <tr class = "fragment tableRow">
     <td>Do not modify</td>
-    <td> Modify freely</td>
+    <td>Modify freely</td>
   </tr>
 
   <tr class = "fragment tableRow">
@@ -140,45 +140,9 @@ GNU Public License (GPL)
 
 +++
 
-@div[left-50]
-CopyRight license:<br><br>
-<span style="font-size:80%">
-@ul
-- Protects the author
-- Do not modify
-- Do not copy
-- Do not Distribute
-@ulend
-</span>
-@divend
-
-@div[right-50]
-CopyLeft license (GPL):<br><br>
-<span style="font-size:80%">
-@ul
-- Protects the user
-- Free to modify
-- Free to copy
-- Free to distribute
-@ulend
-</span>
-@divend
-
-+++
-
-<span style = "font-size:150%">
-FOSS licensing means<br>
-<ul class=" ">
-<li class="fragment  " data-notes=" ">Greater security</li>
-<li class="fragment  " data-notes=" ">Better privacy</li>
-<li class="fragment  " data-notes=" ">Fewer intellectual property (IP) issues</li>
-</span>
-
-+++
-
-In other words, you can<br><br>
+In other words,<br><br>
 
 <span style="font-size:150%">
-have your cake<br>
+you can have your cake<br>
 and eat it, too.
 </span>
