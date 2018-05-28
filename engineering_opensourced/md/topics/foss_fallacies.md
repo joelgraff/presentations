@@ -8,6 +8,15 @@ how can it be good?"<br><br>
 
 +++
 
+When we speak of free, 
+<span style="font-szie:150%">
+we mean free as in **freedom**
+</span>
+<br><br>
+Free **Beer** vs. Free **Speech**
+
++++
+
 <span style="font-size:150%">
 Many FOSS projects<br>
 are actively developed<br>
