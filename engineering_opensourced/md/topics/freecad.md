@@ -30,6 +30,7 @@
 
 @div[left-50]
 ![LULZ_OSE](engineering_opensourced/assets/images/lulz_ose.png)
+@divend
 
 +++
 
