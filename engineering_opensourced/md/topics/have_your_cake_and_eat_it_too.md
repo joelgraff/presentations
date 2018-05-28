@@ -102,6 +102,7 @@ GNU Public License (GPL)
 +++
 
 ### Comparing Licensing
+<br>
 <table>
 
   <tr>
@@ -128,10 +129,12 @@ GNU Public License (GPL)
     <td>Do not distribute</td>
     <td>Distribute freely</td>
 </table>
-
+<br>
+<span style = "font-size:50%">
 @ul
-FOSS software must be distributed with it's source code.
+*FOSS software must be distributed with it's source code.
 @ulend
+</span>
 
 +++
 
