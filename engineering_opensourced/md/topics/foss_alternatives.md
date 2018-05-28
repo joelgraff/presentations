@@ -70,15 +70,13 @@
 
 +++
 
-## GIS
+## QGIS
 @ul
- - ArcGIS vs QGIS
- - AequilibraE (Pedro Camargo, PhD)
-   - QGIS plugin
-   - Network Preparation
-   - Trip Distribution
-   - Network SKimming
-   - Traffic Assignment
+- AequilibraE plugin (Pedro Camargo, PhD)
+- Network Preparation
+- Trip Distribution
+- Network Skimming
+- Traffic Assignment
 @ulend
 
 +++
