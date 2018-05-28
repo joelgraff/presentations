@@ -134,7 +134,7 @@ GNU Public License (GPL)
 <br>
 <span style = "font-size:75%">
 @ul
-*FOSS software must be distributed with it's source code.
+*_FOSS software must be distributed with it's source code._
 @ulend
 </span>
 
