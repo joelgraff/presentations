@@ -80,7 +80,7 @@ This is why
 <br>
 ***Free and Open Source Software *** 
 (FOSS)
-<span>
+</span>
 <br>
 matters.
 
