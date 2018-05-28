@@ -33,7 +33,7 @@ is often available<br><br>
 (for larger projects)
 
 +++
-##Community
+## Community
 
 <span style="font-size:150%">
 An active community means<br><br>
