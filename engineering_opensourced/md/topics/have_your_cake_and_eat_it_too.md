@@ -104,20 +104,20 @@ GNU Public License (GPL)
 @div[left-50]
 CopyRight license:<br>
 
- - Protects the author
- - Do not modify
- - Do not copy
- - Do not Distribute
+- Protects the author
+- Do not modify
+- Do not copy
+- Do not Distribute
 
 @divend
 
 @div[right-50]
 CopyLeft license (GPL):<br>
 
- - Protects the user
- - Free to modify
- - Free to copy
- - Free to distribute
+- Protects the user
+- Free to modify
+- Free to copy
+- Free to distribute
 
 @divend
 
