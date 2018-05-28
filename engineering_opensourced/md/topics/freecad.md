@@ -61,6 +61,7 @@
  - Global Village Construction Set
  - TED Talk (2011)
  - Immersive workshops
+ - Plans in FreeCAD
 @ulend
 </span>
 @divend
