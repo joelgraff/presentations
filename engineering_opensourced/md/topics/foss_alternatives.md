@@ -71,17 +71,14 @@
 +++
 
 ## GIS
-ArcGIS vs QGIS
-<br>
-AequilibraE<br>
-Pedro Camargo, PhD
 @ul
-<span style="font-size:85%">
-- Network Preparation
-- Trip Distribution
-- Network SKimming
-- Traffic Assignment
-</span>
+ - ArcGIS vs QGIS
+ - AequilibraE (Pedro Camargo, PhD)
+   - QGIS plugin
+   - Network Preparation
+   - Trip Distribution
+   - Network SKimming
+   - Traffic Assignment
 @ulend
 
 +++
