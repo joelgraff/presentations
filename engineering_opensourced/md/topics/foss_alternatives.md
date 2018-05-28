@@ -72,20 +72,21 @@
 
 ## GIS
 
-<div class="right-50">
+<div class="left-50">
 <br>
 ![GIS](engineering_opensourced/assets/images/gis_logos.png)
 </div>
 
-<div class="left-50">
+<div class="right-50">
 <br>
-AequillibraE
+AequilibraE
+Pedro Camargo, PhD
 @ul
 <span style="font-size:85%">
-Network Preparation
-Trip Distribution
-Network SKimming
-Traffic Assignment
+- Network Preparation
+- Trip Distribution
+- Network SKimming
+- Traffic Assignment
 </span>
 @ulend
 
