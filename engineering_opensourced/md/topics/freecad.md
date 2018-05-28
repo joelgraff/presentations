@@ -36,9 +36,8 @@
 <br><br>
 @ul
  - Mini and Taz printers
- - Highly rated reviews (2017)
+ - Highly rated reviews
  - Open Source Hardware
- - Build or modify the design
   - US Marine Corps deployments
 @ulend
 </span>
