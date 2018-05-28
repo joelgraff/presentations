@@ -71,12 +71,9 @@
 +++
 
 ## GIS
-
-<br>
 ArcGIS vs QGIS
-<div class="right-50">
 <br>
-AequilibraE
+AequilibraE<br>
 Pedro Camargo, PhD
 @ul
 <span style="font-size:85%">
@@ -87,7 +84,6 @@ Pedro Camargo, PhD
 </span>
 @ulend
 
-</div>
 +++
 
 ## Engineering - FEM
