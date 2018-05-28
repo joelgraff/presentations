@@ -48,7 +48,7 @@
 ## FREECAD USERS
 
 @div[left-50]
-<br><br>
+<br>
 ![OSE](engineering_opensourced/assets/images/ose_logo.png)
 @divend
 
