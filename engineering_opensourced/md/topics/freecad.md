@@ -30,6 +30,3 @@
 +++?image=engineering_opensourced/assets/images/bridge_fem.png&size=contain
 
 +++?image=engineering_opensourced/assets/images/bridge_cfd.png&size=contain
-
-+++?
-image=engineering_opensourced/assets/images/pedestrian_bridge.png&size=contain
