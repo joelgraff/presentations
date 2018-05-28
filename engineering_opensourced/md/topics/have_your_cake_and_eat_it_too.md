@@ -110,22 +110,22 @@ GNU Public License (GPL)
     <th>Free (GPL)*</th> 
   </tr>
 
-  <tr class="fragment noBorder" style = "font-size:85%">
+  <tr class="fragment tableRow">
     <td>Protects the author</td>
     <td>Protects the user</td>
   </tr>
 
-  <tr class = "fragment">
+  <tr class = "fragment tableRow">
     <td>Do not copy</td>
     <td>Copy freely</td>
   </tr>
 
-  <tr class = "fragment">
+  <tr class = "fragment tableRow">
     <td>Do not modify</td>
     <td> Modify freely</td>
   </tr>
 
-  <tr class = "fragment">
+  <tr class = "fragment tableRow">
     <td>Do not distribute</td>
     <td>Distribute freely</td>
   </tr>

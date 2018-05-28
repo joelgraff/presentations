@@ -12,6 +12,7 @@
     height: 50%;
 }
 
-tr.noBorder td {
+tr.tableRow td {
     border: 0;
+    font-size: 85%
 }
