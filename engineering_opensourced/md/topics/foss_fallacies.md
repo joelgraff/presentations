@@ -34,7 +34,7 @@ is often available<br><br>
 
 +++
 ## Community
-
+<br><br>
 <span style="font-size:150%">
 An active community means<br><br>
 </span>
