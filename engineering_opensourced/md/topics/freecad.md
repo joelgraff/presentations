@@ -38,7 +38,7 @@ Users
  - Mini and Taz printers
  - Highly rated reviews (2017)
  - Open Source
- - Build or modify the existing design
+ - Build or modify the design
  - US Marine Corps deployments
 @ulend
 @divend
