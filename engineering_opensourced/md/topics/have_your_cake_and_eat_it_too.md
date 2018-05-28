@@ -100,8 +100,8 @@ GNU Public License (GPL)
 </ul>
 
 +++
-@ul
 <table>
+@ul
   <tr>
     <th>Firstname</th>
     <th>Lastname</th> 
@@ -122,8 +122,8 @@ GNU Public License (GPL)
     <td>Doe</td>
     <td>80</td>
   </tr>
-</table>
 @ulend
+</table>
 +++
 
 @div[left-50]
