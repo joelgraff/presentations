@@ -49,12 +49,13 @@
 Users
 
 @div[left-50]
+<br><br>
 ![OSE](engineering_opensourced/assets/images/ose_logo.png)
 @divend
 
 @div[right-50]
-<span style="font-size:100%">
-<br><br>
+<span style="font-size:90%">
+<br>
 @ul
  - Marcin Jakubowski
  - Based in Missouri
