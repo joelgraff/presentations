@@ -33,6 +33,7 @@ Users
 @divend
 
 <span style="font-size:90%">
+@div[right-50]
 @ul
  - 3D printers: Mini and Taz
  - Among the best 3D printers of 2017
@@ -40,6 +41,7 @@ Users
  - Build or modify the existing design
  - US Marine Corps deployments
 @ulend
+@divend
 </span>
 
 +++
