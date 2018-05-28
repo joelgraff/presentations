@@ -34,4 +34,3 @@ image=engineering_opensourced/assets/images/ped_bridge.png&size=contain
 
 +++?
 image=engineering_opensourced/assets/images/pedestrian_bridge.png&size=contain
-images/pedestrian_bridge.png&size=contain
