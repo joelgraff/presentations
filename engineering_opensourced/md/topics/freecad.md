@@ -31,8 +31,8 @@
 ![LULZBOT](engineering_opensourced/assets/images/lulzbot.png)
 @divend
 
-<span style="font-size:75%">
 @div[right-50]
+<span style="font-size:75%">
 @ul
  - Mini and Taz printers
  - Highly rated reviews (2017)
@@ -40,8 +40,8 @@
  - Build or modify the design
  - US Marine Corps deployments
 @ulend
-@divend
 </span>
+@divend
 
 +++
 
