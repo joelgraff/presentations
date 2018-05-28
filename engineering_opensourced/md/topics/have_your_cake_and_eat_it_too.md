@@ -15,12 +15,12 @@ end up in EULAs . . .
 
 +++
 
+**Apple** is very clear that<br>
 <span style="font-size:150%">
-**Apple** is very clear<br>
-that iTunes is not to be used<br>
+that you cannot use iTunes<br>
 to create<br><br>
-## ***weapons of mass destruction***
-<br><br><br>
+***weapons of mass destruction***
+<br><br>
 <span style="font-size: 50%">
 [iTunes EULA, Part (G)(g)](https://www.apple.com/legal/internet-services/itunes/us/terms.html)
 </span>
@@ -36,7 +36,7 @@ and can re-use<br>
 ***anything you create***<br><br>
 </span>
 on their services for their purposes.
-<br><br><br>
+<br><br>
 <span style="font-size: 50%">
 [Google Terms of Service, "Your Content in our Services"](https://policies.google.com/terms)
 </span>
