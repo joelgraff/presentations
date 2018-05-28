@@ -100,30 +100,39 @@ GNU Public License (GPL)
 </ul>
 
 +++
+
+### Comparing Licensing
 <table>
-@ul
+
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th>Proprietary</th>
+    <th>Free (GPL)*</th> 
   </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+
+  <tr class="fragment">
+    <td>Protects the author</td>
+    <td>Protects the user</td>
   </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+
+  <tr class = "fragment">
+    <td>Do not copy</td>
+    <td>Copy freely</td>
   </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+
+  <tr class = "fragment">
+    <td>Do not modify</td>
+    <td> Modify freely</td>
   </tr>
-@ulend
+
+  <tr class = "fragment">
+    <td>Do not distribute</td>
+    <td>Distribute freely</td>
 </table>
+
+@ul
+FOSS software must be distributed with it's source code.
+@ulend
+
 +++
 
 @div[left-50]
