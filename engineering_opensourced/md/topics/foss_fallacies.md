@@ -27,7 +27,7 @@ and other **domain experts**
 +++
 
 <span style="font-size:150%">
-and paid support<br>
+paid support<br>
 is often available<br><br>
 </span>
 (for larger projects)
