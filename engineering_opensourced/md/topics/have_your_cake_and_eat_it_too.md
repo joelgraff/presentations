@@ -103,22 +103,22 @@ GNU Public License (GPL)
 
 @div[left-50]
 CopyRight license:<br>
-
+@ul
 - Protects the author
 - Do not modify
 - Do not copy
 - Do not Distribute
-
+@ulend
 @divend
 
 @div[right-50]
 CopyLeft license (GPL):<br>
-
+@ul
 - Protects the user
 - Free to modify
 - Free to copy
 - Free to distribute
-
+@ulend
 @divend
 
 +++
