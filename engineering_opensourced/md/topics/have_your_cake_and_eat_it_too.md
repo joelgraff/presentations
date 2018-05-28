@@ -109,8 +109,8 @@ GNU Public License (GPL)
     <th>Proprietary</th>
     <th>Free (GPL)*</th> 
   </tr>
-<span style="font-size:85%">
-  <tr class="fragment">
+
+  <tr class="fragment"; style = "font-size:85%">
     <td>Protects the author</td>
     <td>Protects the user</td>
   </tr>
