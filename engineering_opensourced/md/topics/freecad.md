@@ -32,7 +32,7 @@ Users
 ![LULZBOT](engineering_opensourced/assets/images/lulzbot.png)
 @divend
 
-<span style="font-size:90%">
+<span style="font-size:75%">
 @div[right-50]
 @ul
  - 3D printers: Mini and Taz
