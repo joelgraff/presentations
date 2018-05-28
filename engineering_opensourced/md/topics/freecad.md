@@ -28,9 +28,10 @@
 ## FREECAD
 ### Users
 
+<div class="lulz-ose>
 @div[left-50]
 ![LULZ_OSE](engineering_opensourced/assets/images/lulz_ose.png)
 @divend
-
+</div>
 +++
 
