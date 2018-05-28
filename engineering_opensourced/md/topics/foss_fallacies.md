@@ -33,8 +33,10 @@ is often available<br><br>
 (for larger projects)
 
 +++
+##Community
+
 <span style="font-size:150%">
-Active community support means<br><br>
+An active community means<br><br>
 </span>
 <ul class=" ">
 <li class="fragment li-nested-item" data-notes=" ">Software security issues are fixed quickly</li>
