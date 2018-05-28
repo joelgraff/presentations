@@ -25,8 +25,7 @@
 
 +++
 
-## FREECAD
-Users
+## FREECAD USERS
 
 @div[left-50]
 ![LULZBOT](engineering_opensourced/assets/images/lulzbot.png)
