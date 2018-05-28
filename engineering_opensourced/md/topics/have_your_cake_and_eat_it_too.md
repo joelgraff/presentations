@@ -102,23 +102,27 @@ GNU Public License (GPL)
 +++
 
 @div[left-50]
-CopyRight license:<br>
+CopyRight license:<br><br>
+<span style="font-size:80%">
 @ul
 - Protects the author
 - Do not modify
 - Do not copy
 - Do not Distribute
 @ulend
+</span>
 @divend
 
 @div[right-50]
-CopyLeft license (GPL):<br>
+CopyLeft license (GPL):<br><br>
+<span style="font-size:80%">
 @ul
 - Protects the user
 - Free to modify
 - Free to copy
 - Free to distribute
 @ulend
+</span>
 @divend
 
 +++
