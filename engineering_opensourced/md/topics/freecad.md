@@ -6,7 +6,7 @@
 </div>
 @div[right-50]
 <br>
-<span style="font-size:90%">
+<span style="font-size:85%">
 @ul
  - OpenCASCADE kernel
  - Fully parametric
@@ -49,6 +49,18 @@
 Users
 
 @div[left-50]
-![OSE]
-(engineering_opensourced/assets/images/ose.png)
+![OSE](engineering_opensourced/assets/images/ose_logo.png)
+@divend
+
+@div[right-50]
+<span style="font-size:100%">
+<br><br>
+@ul
+ - Marcin Jakubowski
+ - Based in Missouri
+ - Global Village Construction Set
+ - TED Talk (2011)
+ - Immersive workshops
+@ulend
+</span>
 @divend
