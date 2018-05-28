@@ -130,7 +130,7 @@ GNU Public License (GPL)
     <td>Distribute freely</td>
 </table>
 <br>
-<span style = "font-size:50%">
+<span style = "font-size:75%">
 @ul
 *FOSS software must be distributed with it's source code.
 @ulend
