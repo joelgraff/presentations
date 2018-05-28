@@ -35,9 +35,6 @@ is often available<br><br>
 +++
 ## Community
 <br><br>
-<span style="font-size:150%">
-An active community means<br><br>
-</span>
 <ul class=" ">
 <li class="fragment li-nested-item" data-notes=" ">Software security issues are fixed quickly</li>
 <li class="fragment li-nested-item" data-notes=" ">Users get support at all levels</li>
