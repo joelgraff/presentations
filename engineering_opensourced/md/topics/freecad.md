@@ -23,6 +23,8 @@
 </span>
 @divend
 
++++?image=engineering_opensourced/assets/images/architecture.png
+
 +++?image=engineering_opensourced/assets/images/turboprop.png&size=contain
 
 +++?image=engineering_opensourced/assets/images/ped_bridge.png&size=contain
