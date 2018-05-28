@@ -75,14 +75,14 @@ your data is not private.
 
 ---
 
-<span style = "font-size:150%">
 This is why
-<br><br>
+<span style = "font-size:150%">
+<br>
 ***Free and Open Source Software *** 
 (FOSS)
-<br><br>
+<span>
+<br>
 matters.
-</span>
 
 +++
 
