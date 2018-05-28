@@ -58,12 +58,12 @@
 
 ## Operating Systems
 
-<div class="left-50">
+<div class="left-50 image-85">
 <br><br>
 ![WIN_OSX](engineering_opensourced/assets/images/win_osx.png)
 </div>
 
-<div class="right-50">
+<div class="right-50 image-85">
 <br><br>
 ![LINUX](engineering_opensourced/assets/images/Linux_logo.png)
 </div>

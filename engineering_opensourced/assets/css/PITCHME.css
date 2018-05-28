@@ -12,6 +12,10 @@
     height: 50%;
 }
 
+.image-85 {
+    height: 85%;
+}
+
 tr.tableRow td {
     border: 0;
     font-size: 85%
