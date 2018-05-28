@@ -35,9 +35,9 @@ Users
 <span style="font-size:75%">
 @div[right-50]
 @ul
- - 3D printers: Mini and Taz
- - Among the best 3D printers of 2017
- - Open Source Hardware
+ - Mini and Taz printers
+ - Highly rated reviews (2017)
+ - Open Source
  - Build or modify the existing design
  - US Marine Corps deployments
 @ulend
