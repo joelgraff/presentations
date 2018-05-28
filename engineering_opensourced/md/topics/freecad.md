@@ -25,8 +25,7 @@
 
 +++?image=engineering_opensourced/assets/images/turboprop.png&size=contain
 
-+++?
-image=engineering_opensourced/assets/images/ped_bridge.png&size=contain
++++?image=engineering_opensourced/assets/images/turboprop.png&size=contain
 
 +++?image=engineering_opensourced/assets/images/bridge_fem.png&size=contain
 
