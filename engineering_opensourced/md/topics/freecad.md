@@ -32,13 +32,14 @@
 @divend
 
 @div[right-50]
-<span style="font-size:90%">
+<span style="font-size:100%">
+<br><br>
 @ul
  - Mini and Taz printers
  - Highly rated reviews (2017)
  - Open Source Hardware
  - Build or modify the design
- - US Marine Corps deployments
+  - US Marine Corps deployments
 @ulend
 </span>
 @divend
