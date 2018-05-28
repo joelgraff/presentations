@@ -109,7 +109,7 @@ GNU Public License (GPL)
     <th>Proprietary</th>
     <th>Free (GPL)*</th> 
   </tr>
-
+<span style="font-size:85%">
   <tr class="fragment">
     <td>Protects the author</td>
     <td>Protects the user</td>
@@ -128,6 +128,8 @@ GNU Public License (GPL)
   <tr class = "fragment">
     <td>Do not distribute</td>
     <td>Distribute freely</td>
+  </tr>
+</span>
 </table>
 <br>
 <span style = "font-size:75%">
