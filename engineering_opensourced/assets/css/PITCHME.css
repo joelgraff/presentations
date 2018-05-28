@@ -8,7 +8,10 @@
     box-shadow: none;
 }
 
-
 .lulz-ose {
     height: 50%;
+}
+
+tr.noBorder td {
+    border: 0;
 }

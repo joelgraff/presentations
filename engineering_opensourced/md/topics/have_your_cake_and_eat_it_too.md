@@ -110,7 +110,7 @@ GNU Public License (GPL)
     <th>Free (GPL)*</th> 
   </tr>
 
-  <tr class="fragment" style = "font-size:85%" border:0>
+  <tr class="fragment" class="noBorder" style = "font-size:85%">
     <td>Protects the author</td>
     <td>Protects the user</td>
   </tr>
