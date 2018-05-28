@@ -20,7 +20,7 @@ that you cannot use iTunes<br>
 to create<br><br>
 <span style="font-size:150%">
 ***Weapons of Mass Destruction***
-<br><br>
+<br><br><br>
 <span style="font-size: 50%">
 [iTunes EULA, Part (G)(g)](https://www.apple.com/legal/internet-services/itunes/us/terms.html)
 </span>
@@ -54,7 +54,7 @@ your **private messages**<br><br>
 </span>
 
 to advertise to you.
-<br><br><br><br>
+<br><br><br>
 <span style = "font-size:50%">
 ["So Facebook allegedly reads your private messages ..."](https://www.zdnet.com/article/so-facebook-alledgedly-reads-your-private-messages-but-what-about-google)
 </span>
@@ -89,6 +89,7 @@ matters.
 <span style="font-size:150%">
 FOSS is freely licensed.
 </span>
+GNU Public License (GPL)
 <br><br>
 <ul class=" ">
 <li class="fragment  " data-notes=" ">You get the source code</li>
@@ -96,6 +97,24 @@ FOSS is freely licensed.
 <li class="fragment  " data-notes=" ">No one can charge you to use it</li>
 <li class="fragment  " data-notes=" ">You can share it as you see fit</li>
 </ul>
+
++++
+
+@div[left-50]
+CopyRight license:
+ - Protects the author
+ - Do not modify
+ - Do not copy
+ - Do not Distribute
+@divend
+
+@div[right-50]
+CopyLeft license (GPL)
+ - Protects the user
+ - Free to modify
+ - Free to copy
+ - Free to distribute
+@divend
 
 +++
 
