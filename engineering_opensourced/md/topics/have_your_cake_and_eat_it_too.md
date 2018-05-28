@@ -89,31 +89,36 @@ matters.
 <span style="font-size:150%">
 FOSS is freely licensed.
 </span>
+<br>
 GNU Public License (GPL)
 <br><br>
 <ul class=" ">
 <li class="fragment  " data-notes=" ">You get the source code</li>
 <li class="fragment  " data-notes=" ">You can modify it</li>
-<li class="fragment  " data-notes=" ">No one can charge you to use it</li>
 <li class="fragment  " data-notes=" ">You can share it as you see fit</li>
+<li class="fragment  " data-notes=" ">No one can charge you for it</li>
 </ul>
 
 +++
 
 @div[left-50]
 CopyRight license:
+@ul
  - Protects the author
  - Do not modify
  - Do not copy
  - Do not Distribute
+@ulend
 @divend
 
 @div[right-50]
-CopyLeft license (GPL)
+CopyLeft license (GPL):
+@ul
  - Protects the user
  - Free to modify
  - Free to copy
  - Free to distribute
+@ulend
 @divend
 
 +++
