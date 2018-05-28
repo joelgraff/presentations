@@ -23,7 +23,7 @@
 </span>
 @divend
 
-+++?image=engineering_opensourced/assets/images/turboprop.png&size=custom-siz--config contain
++++?image=engineering_opensourced/assets/images/turboprop.png&size=ccontain
 
 +++?image=engineering_opensourced/assets/images/bridge_fem.png
 
