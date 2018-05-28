@@ -8,12 +8,12 @@ how can it be good?"<br><br>
 
 +++
 
-When we speak of free, 
-<span style="font-szie:150%">
+<span style="font-size: 150%">
+When we speak of free,<br> 
 we mean free as in **freedom**
 </span>
 <br><br>
-Free **Beer** vs. Free **Speech**
+_(Free Beer vs. Free Speech)_
 
 +++
 
