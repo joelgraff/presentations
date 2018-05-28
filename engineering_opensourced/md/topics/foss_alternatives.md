@@ -72,7 +72,7 @@
 
 ## GIS
 
-<div class="left-50 image-85">
+<div class="left-50">
 <br>
 ![GIS](engineering_opensourced/assets/images/gis_logos.png)
 </div>
