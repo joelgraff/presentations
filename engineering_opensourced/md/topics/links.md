@@ -1,46 +1,43 @@
 ## Links
 <br>
 @div[left-50]
-FreeCAD
-<br>
+FreeCAD<br>
+<span style="font-size:50%">
 -Website https://www.freecadweb.org
--Forum https:
--Tutorials https:
+-Forum https:<br>
+-Tutorials https:<br>
+</span>
+QGIS<br>
+<span style="font-size:50%">
+-Website<br>
+-AequillibraE<br>
+</span>
 <br>
-QGIS
-<br>
--Website
--AequillibraE
-<br>
-3D CAD
-<br>
--OpenCASCADE
--BRL CAD
--OpenSCAD
-<br>
-2D CAD
-<br>
--KiCAD
--LibreCAD
+3D CAD<br>
+<span style="font-size:50%">
+-OpenCASCADE<br>
+-BRL CAD<br>
+-OpenSCAD<br>
+</span>
+2D CAD<br>
+<span style="font-size:50%">
+-KiCAD<br>
+-LibreCAD<br>
+</span>
 @divend
-FEM
-<br>
--Elmer (https://www.csc.fi/web/elmer/elmer)
--CalculiX (http://www.calculix.de/)
--OpenFOAM (https://www.openfoam.com/)
-<br>
-Other FOSS Links:
--LibreOffice
--Collabora Online
--NextCloud
--GIMP
--Inkscape
--Krita
--Blender
-<br>
-Linux
-<br>
--Ubuntu
--Fedora
--Suse
-<br>
+FEM<br>
+-Elmer (https://www.csc.fi/web/elmer/elmer)<br>
+-CalculiX (http://www.calculix.de/)<br>
+-OpenFOAM (https://www.openfoam.com/)<br>
+Other FOSS Links:<br>
+-LibreOffice<br>
+-Collabora Online<br>
+-NextCloud<br>
+-GIMP<br>
+-Inkscape<br>
+-Krita<br>
+-Blender<br>
+Linux<br>
+-Ubuntu<br>
+-Fedora<br>
+-Suse<br>
