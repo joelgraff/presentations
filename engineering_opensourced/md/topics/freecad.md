@@ -34,7 +34,7 @@
 +++?image=engineering_opensourced/assets/images/bridge_cfd.png&size=contain
 
 +++
-## DEMOS
+## Demonstration
 
 FreeCAD and Transporation Engineering:
 <br>
@@ -42,5 +42,5 @@ FreeCAD and Transporation Engineering:
  - Swept Path Analysis (AutoTurn)
  - Alignment design
  - Roadway design using sketches
- - Box culverts
+ - Parametric box culvert
 @ulend
