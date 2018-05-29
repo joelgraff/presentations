@@ -91,17 +91,6 @@ FOSS is freely licensed.
 </span>
 <br>
 GNU Public License (GPL)
-<br><br>
-<ul class=" ">
-<li class="fragment  " data-notes=" ">You get the source code</li>
-<li class="fragment  " data-notes=" ">You can modify it</li>
-<li class="fragment  " data-notes=" ">You can share it as you see fit</li>
-<li class="fragment  " data-notes=" ">No one can charge you for it</li>
-</ul>
-
-+++
-
-### Comparing Licensing
 <br>
 <table>
 
