@@ -1,7 +1,3 @@
-## I like **cake.**
-
-+++
-
 <span style = "font-size:150%">
 I like coffee cake.<br>
 </span>
@@ -96,30 +92,13 @@ and click "I Agree"
 +++
 
 <span style="font-size:125%">
-And you **must** agree to
+And you **must** abide by
 </span>
 <br><br><br>
-## __**any condition**__
+## __**every condition**__
 <br><br>
 <span style="font-size:125%">
 in the EULA
 </span>
 <br><br>
 (so long as it's not illegal)
-
-+++
-
-<span style="font-size:150%">
-If I were buying a cake<br>
-that had a **EULA**,
-<br><br>
-</span>
-I'd probably look at the baker 
-<br>
-and say . . .
-
----
-
-<span style = "font-size:150%">
-Actually, I like **kale.**
-</span>

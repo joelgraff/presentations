@@ -27,7 +27,7 @@ and other **domain experts**
 +++
 
 <span style="font-size:150%">
-paid support<br>
+Paid support<br>
 is often available<br><br>
 </span>
 (for larger projects)
@@ -36,7 +36,7 @@ is often available<br><br>
 ## Community
 <br><br>
 <ul class=" ">
-<li class="fragment li-nested-item" data-notes=" ">Software security issues are fixed quickly</li>
+<li class="fragment li-nested-item" data-notes=" ">Software bugs and security issues are fixed quickly</li>
 <li class="fragment li-nested-item" data-notes=" ">Users get support at all levels</li>
 <li class="fragment li-nested-item" data-notes=" ">Development is driven by community needs</li>
 </ul>

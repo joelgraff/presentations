@@ -10,13 +10,12 @@ in engineering?<br>
 
 #### **Reason #1:**
 <br>
-
-Because most traditional
-engineering problems
+Sound engineering
+shouldn't depend on
+someone else's
 <span style="font-size:150%">
-**don't need software**
+**intellectual property**
 </span>
-to solve.
 
 +++
 
@@ -29,13 +28,4 @@ Domestic software can be
 </span>
 for non-domestic customers
 
-+++
-
-#### **Reason #3:**
-<br>
-Sound engineering
-shouldn't depend on
-someone else's
-<span style="font-size:150%">
-**intellectual property**
 </span>

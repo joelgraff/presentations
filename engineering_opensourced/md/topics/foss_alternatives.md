@@ -70,7 +70,7 @@
 
 +++
 
-## QGIS
+## Engineering - QGIS
 <br>
 @ul
 - AequilibraE plugin (Pedro Camargo, PhD)
