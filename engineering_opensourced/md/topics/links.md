@@ -1,26 +1,37 @@
 ## Links
 <br>
 @div[left-50]
-FreeCAD<br>
+<span style="font-size:70%">
+FreeCAD
+</span>
 <span style="font-size:50%">
--Website https://www.freecadweb.org
+<br>
+-Website https://www.freecadweb.org<br>
 -Forum https:<br>
 -Tutorials https:<br>
 </span>
-QGIS<br>
+<span style="font-size:70%">
+QGIS
+</span>
 <span style="font-size:50%">
+<br>
 -Website<br>
 -AequillibraE<br>
 </span>
-<br>
-3D CAD<br>
 <span style="font-size:50%">
+3D CAD
+</span>
+<span style="font-size:50%">
+<br>
 -OpenCASCADE<br>
 -BRL CAD<br>
 -OpenSCAD<br>
 </span>
-2D CAD<br>
 <span style="font-size:50%">
+2D CAD
+</span>
+<span style="font-size:50%">
+<br>
 -KiCAD<br>
 -LibreCAD<br>
 </span>
