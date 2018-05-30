@@ -2,8 +2,8 @@
 <table>
 
   <tr>
-    <td>FreeCAD</td>
-    <td>QGIS</td> 
+    <td colspan="2">FreeCAD</td>
+    <td colspan="2">QGIS</td> 
   </tr>
 
   <tr class="tableRow">
