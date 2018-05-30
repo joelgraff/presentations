@@ -19,7 +19,11 @@
     <td>AequilibraE</td>
     <td>https://aequillibrae.com<td>
   </tr>
-<br>
+
+  <tr>
+    <td colspan="4">
+  </tr>
+  
   <tr>
     <td colspan="2">2D CAD</td>
     <td colspan="2">3D CAD</td> 
