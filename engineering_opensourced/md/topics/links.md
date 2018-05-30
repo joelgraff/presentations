@@ -21,9 +21,9 @@
   </tr>
 
   <tr>
-    <td colspan="4">
+    <td colspan="4"></td>
   </tr>
-  
+
   <tr>
     <td colspan="2">2D CAD</td>
     <td colspan="2">3D CAD</td> 
