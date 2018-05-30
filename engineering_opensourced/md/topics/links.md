@@ -22,44 +22,31 @@
 
 </table>
 
+<table>
+
+  <tr>
+    <td colspan="2">2D CAD</td>
+    <td colspan="2">3D CAD</td> 
+  </tr>
+
+  <tr class="links">
+    <td>KiCad</td>
+    <td>https://www.freecadweb.org</td>
+    <td>LibreCAD</td>
+    <td>https://qgis.org<td>
+  </tr>
+
+  <tr class="links">
+    <td>BRL CAD</td>
+    <td>https://goo.gl/Tvbi2x</td>
+    <td>OpenSCAD</td>
+    <td>https://aequillibrae.com<td>
+  </tr>
+
+</table>
+
 +++
 
-<br>
-@div[left-50]
-<span style="font-size:70%">
-FreeCAD
-</span>
-<span style="font-size:50%">
-<br>
--Website https://www.freecadweb.org<br>
--Forum https:<br>
--Tutorials https:<br>
-</span>
-<span style="font-size:70%">
-QGIS
-</span>
-<span style="font-size:50%">
-<br>
--Website<br>
--AequillibraE<br>
-</span>
-<span style="font-size:50%">
-3D CAD
-</span>
-<span style="font-size:50%">
-<br>
--OpenCASCADE<br>
--BRL CAD<br>
--OpenSCAD<br>
-</span>
-<span style="font-size:50%">
-2D CAD
-</span>
-<span style="font-size:50%">
-<br>
--KiCAD<br>
--LibreCAD<br>
-</span>
 @divend
 FEM<br>
 -Elmer (https://www.csc.fi/web/elmer/elmer)<br>
