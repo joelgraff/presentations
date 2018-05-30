@@ -10,7 +10,7 @@
     <td>Website</td>
     <td>https://www.freecadweb.org</td>
     <td>Website</td>
-    <td>https://<td>
+    <td>https://qgis.org<td>
   </tr>
 
   <tr class="links">
