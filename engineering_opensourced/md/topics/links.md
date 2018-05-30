@@ -14,10 +14,10 @@
   </tr>
 
   <tr class="links">
-    <td>Tutorials</td>
-    <td>https://www.youtube.com/channel/UC_9HwDkwxllq5lFGkYBIH9g</td>
+    <td>YouTube Tutorials</td>
+    <td>https://goo.gl/Tvbi2x</td>
     <td>AequilibraE</td>
-    <td>https://<td>
+    <td>https://aequillibrae.com<td>
   </tr>
 
 </table>
