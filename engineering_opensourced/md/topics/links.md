@@ -8,8 +8,15 @@
 
   <tr class="tableRow">
     <td>Website</td>
-    <td>https://</td>
+    <td>https://www.freecadweb.org</td>
     <td>Website</td>
+    <td>https://<td>
+  </tr>
+
+  <tr class="tableRow">
+    <td>Tutorials</td>
+    <td>https://www.youtube.com/channel/UC_9HwDkwxllq5lFGkYBIH9g</td>
+    <td>AequilibraE</td>
     <td>https://<td>
   </tr>
 
