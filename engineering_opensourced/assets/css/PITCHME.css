@@ -14,5 +14,10 @@
 
 tr.tableRow td {
     border: 0;
-    font-size: 85%
+    font-size: 85%;
+}
+
+tr.links ts {
+    border: 0;
+    font-size: 50%;
 }

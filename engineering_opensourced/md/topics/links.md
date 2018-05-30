@@ -6,14 +6,14 @@
     <td colspan="2">QGIS</td> 
   </tr>
 
-  <tr class="tableRow">
+  <tr class="links">
     <td>Website</td>
     <td>https://www.freecadweb.org</td>
     <td>Website</td>
     <td>https://<td>
   </tr>
 
-  <tr class="tableRow">
+  <tr class="links">
     <td>Tutorials</td>
     <td>https://www.youtube.com/channel/UC_9HwDkwxllq5lFGkYBIH9g</td>
     <td>AequilibraE</td>
