@@ -20,10 +20,6 @@
     <td>https://aequillibrae.com<td>
   </tr>
 
-</table>
-
-<table>
-
   <tr>
     <td colspan="2">2D CAD</td>
     <td colspan="2">3D CAD</td> 
