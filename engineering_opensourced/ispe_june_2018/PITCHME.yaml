@@ -1,4 +1,4 @@
 theme : sky
-layout: top
+layout: center
 transition : convex
 theme-override : /engineering_opensourced/assets/css/PITCHME.css
