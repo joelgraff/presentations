@@ -3,7 +3,7 @@
 @size[0.6em](Copyright 2018, CC-BY-4.0 [License](https://github.com/joelgraff/presentations/license.md))
 
 
-@css[text_left](Open source software is ubiquitous in technology today, yet it remains conspicuously absent from traditional engineering software platforms.  This presentation explores the issue and the social and technological implications, as well as exploring open source engineering solutions.)
+@css[left_text](Open source software is ubiquitous in technology today, yet it remains conspicuously absent from traditional engineering software platforms.  This presentation explores the issue and the social and technological implications, as well as exploring open source engineering solutions.)
 
 @div[left-50]
 [@size[0.6em](GitPitch slideshow)](https://gitpitch.com/joelgraff/presentations?p=engineering_opensourced/ispe_june_2018/#/)
