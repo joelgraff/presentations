@@ -4,23 +4,36 @@
 This is my github repository for presentations I've given.
 <span>
 
-- #### **Engineering, Open Sourced.**
+#### **Engineering, Open Sourced.**
+
+<span style = "font-size:35%>
+[slideshow](https://gitpitch.com/joelgraff/presentations?p=engineering_opensourced/ispe_june_2018/#/)
+[github](https://github.com/joelgraff/presentations/tree/master/engineering_opensourced)
+</span>
+
 <span style="font-size:50%">
   Applying open source software to traditional engineering domains, with a focus on transportation engineering.
-  - GitPitch slides: https://gitpitch.com/joelgraff/presentations?p=engineering_opensourced/ispe_june_2018/#/
 </span>
-- #### **Designing Highways With 3D CAD**
+
+#### **Designing Highways With 3D CAD**
+[video] (https://www.youtube.com/channel/UCFYAsW-4AWzWB9cndnNJHyQ/videos)
+[github] (https://github.com/joelgraff/presentations/tree/master/designing_highways_with_3d_cad)
+
 <span style="font-size:50%">
   A highway design using Bentley Microstation and parametric 3D modeling
-  - Video: https://www.youtube.com/channel/UCFYAsW-4AWzWB9cndnNJHyQ/videos
 </span>
-- #### **Machine Learning**
+
+#### **Machine Learning in Engineering**
+[github] (https://github.com/joelgraff/presentations/tree/master/machine_learning)
+
 <span style="font-size:50%">
   Applications of machine learning in transportation engineering
 </span>
 
-- #### **Thinking Open**
+#### **Thinking Open**
+[video] (https://www.youtube.com/watch?v=qcLORHpagRM)
+[github] (https://github.com/joelgraff/presentations/tree/master/thinking_open)
+
 <span style="font-size:50%">
   The history and value of open source software for individuals and businesses.
-  - Video: https://www.youtube.com/watch?v=qcLORHpagRM
 </span>
