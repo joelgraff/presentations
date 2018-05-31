@@ -1,4 +1,4 @@
-#### Joel Graff, PE
+### Joel Graff, PE
 <br><br>
 - Licensed Professional Engineer in Illinois (2006)
 - 20 years in Transportaion Engineering (IDOT) 
