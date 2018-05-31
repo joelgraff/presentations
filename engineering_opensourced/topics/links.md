@@ -20,7 +20,7 @@
     <td>https://aequillibrae.com<td>
   </tr>
 
-  <tr>
+  <tr class = "links">
     <td colspan="4"></td>
   </tr>
 
