@@ -1,0 +1,23 @@
+.reveal pre {
+    width: 100%;
+    box-shadow : none;
+  }
+
+.reveal section img {
+    border: 0;
+    box-shadow: none;
+}
+
+.image-85 {
+    height: 85%;
+}
+
+tr.tableRow td {
+    border: 0;
+    font-size: 85%;
+}
+
+tr.links td {
+    border: 0;
+    font-size: 50%;
+}
