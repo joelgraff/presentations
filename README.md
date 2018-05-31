@@ -1,5 +1,3 @@
-# Engineering, Open-Sourced
+# Presentations
 
-Gitpitch presentation link:
-
-https://gitpitch.com/joelgraff/presentations/engineering_opensourced?p=engineering_opensourced
+This is my github repository for presentations I've given.
