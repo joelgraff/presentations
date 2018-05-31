@@ -1,6 +1,4 @@
 ## Presentations
-#### (c) Joel Graff, P.E.
-#### @size[0.6em](Licensed freely )
 
 Topics include:
 
