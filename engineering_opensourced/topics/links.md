@@ -43,6 +43,25 @@
     <td>https://aequillibrae.com<td>
   </tr>
 
+  <tr>
+    <td colspan="4">FEM</td>
+  </tr>
+
+  <tr class="links">
+    <td>Elmer</td>
+    <td>https://www.csc.fi/web/elmer/elemer</td>
+  </tr>
+
+  <tr class="links">
+    <td>CalculiX</td>
+    <td>https://www.calculix.de</td>
+  </tr>
+
+  <tr class="links">
+    <td>OpenFOAM</td>
+    <td>https://www.openfoam.com</td>
+  </tr>
+
 </table>
 
 +++
