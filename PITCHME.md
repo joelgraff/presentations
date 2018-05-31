@@ -3,7 +3,7 @@
 @size[0.6em](Copyright 2018, CC-BY-4.0 [License](https://github.com/joelgraff/presentations/license.md))
 
 <br>
-Engineering, Open Sourced.
+[Engineering, Open Sourced.](https://gitpitch.com/joelgraff/presentations/engineering_opensourced)
 
 [{slideshow}](https://gitpitch.com/joelgraff/presentations?p=engineering_opensourced/ispe_june_2018/#/)
 [{github}](https://github.com/joelgraff/presentations/tree/master/engineering_opensourced)
