@@ -20,7 +20,7 @@
     <td>https://aequillibrae.com<td>
   </tr>
 
-  <tr>
+  <tr class = "links">
     <td colspan="4"></td>
   </tr>
 
@@ -41,6 +41,29 @@
     <td>https://goo.gl/Tvbi2x</td>
     <td>OpenSCAD</td>
     <td>https://aequillibrae.com<td>
+  </tr>
+
+  <tr class="links">
+    <td><br/></td>
+  </tr>
+
+  <tr>
+    <td colspan="4" align="center">Finite Element Analysis (FEA /FEM)</td>
+  </tr>
+
+  <tr class="links">
+    <td>Elmer</td>
+    <td>https://www.csc.fi/web/elmer/elemer</td>
+  </tr>
+
+  <tr class="links">
+    <td>CalculiX</td>
+    <td>https://www.calculix.de</td>
+  </tr>
+
+  <tr class="links">
+    <td>OpenFOAM</td>
+    <td>https://www.openfoam.com</td>
   </tr>
 
 </table>
