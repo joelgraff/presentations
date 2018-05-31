@@ -1,6 +1,6 @@
-# Presentations
-
-This is my github repository for presentations I've given.
+## Presentations
+#### (c) Joel Graff, P.E.
+#### @size[0.6em](Licensed freely )
 
 Topics include:
 
