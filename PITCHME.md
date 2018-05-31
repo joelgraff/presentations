@@ -2,14 +2,13 @@
 
 <span style="font-size:75%">
 This is my github repository for presentations I've given.
-<span>
+</span>
 
 **Engineering, Open Sourced.**
 
 <span style = "font-size:35%">
-[slideshow](https://gitpitch.com/joelgraff/presentations?p=engineering_opensourced/ispe_june_2018/#/)
-    
-[github](https://github.com/joelgraff/presentations/tree/master/engineering_opensourced)
+[{slideshow}](https://gitpitch.com/joelgraff/presentations?p=engineering_opensourced/ispe_june_2018/#/)
+[{github}](https://github.com/joelgraff/presentations/tree/master/engineering_opensourced)
 </span>
 
 <span style="font-size:50%">
@@ -19,8 +18,8 @@ This is my github repository for presentations I've given.
 **Designing Highways With 3D CAD**
 
 <span style = "font-size:35%">
-[video](https://www.youtube.com/channel/UCFYAsW-4AWzWB9cndnNJHyQ/videos)
-[github](https://github.com/joelgraff/presentations/tree/master/designing_highways_with_3d_cad)
+[{video}](https://www.youtube.com/channel/UCFYAsW-4AWzWB9cndnNJHyQ/videos)
+[{github}](https://github.com/joelgraff/presentations/tree/master/designing_highways_with_3d_cad)
 </span>
 
 <span style="font-size:50%">
