@@ -1,6 +1,8 @@
 ### Presentations
-### Joel Graff, PE
-##### Copyright (c) 2018, CC-BY-4.0 [License](https://github.com/joelgraff/presentations/license.md)
+###### Joel Graff, PE
+@size[0.6em](Copyright (c) 2018, CC-BY-4.0 [License])
+
+(https://github.com/joelgraff/presentations/license.md)
 
 @size[0.6em](Engineering, Open Sourced.)
 
