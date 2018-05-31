@@ -4,7 +4,7 @@
 This is my github repository for presentations I've given.
 </span>
 
-**Engineering, Open Sourced.**
+@size[0.6em](Engineering, Open Sourced.)
 
 <span style = "font-size:35%">
 [{slideshow}](https://gitpitch.com/joelgraff/presentations?p=engineering_opensourced/ispe_june_2018/#/)
