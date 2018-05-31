@@ -3,6 +3,8 @@
 
 <br><br>The future of<br>engineering software and design
 
+---?include=/engineering_opensourced/topics/about_me.md
+
 ---?include=/engineering_opensourced/topics/software_is_cake.md
 
 ---?include=/engineering_opensourced/topics/have_your_cake_and_eat_it_too.md
