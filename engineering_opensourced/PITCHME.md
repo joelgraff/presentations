@@ -13,4 +13,6 @@
 [@size[0.6em](Github)](https://github.com/joelgraff/presentations/tree/master/engineering_opensourced)
 @divend
 <br><br>
-@size[0.6em](Return to [Presentations])(https://gitpitch.com/joelgraff/presentations)
+<span syle="text-size:50%">
+Return to [Presentations](https://gitpitch.com/joelgraff/presentations)
+</span>
