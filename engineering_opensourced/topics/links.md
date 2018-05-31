@@ -43,10 +43,10 @@
     <td>https://aequillibrae.com<td>
   </tr>
 
-  <tr>
+  <tr class="links">
     <td><br/></td>
   </tr>
-  
+
   <tr>
     <td colspan="4" align="center">Finite Element Analysis (FEA /FEM)</td>
   </tr>
