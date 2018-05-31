@@ -23,4 +23,12 @@
   .reveal pre {
     width: 100%;
     box-shadow : none;
-}
+  }
+
+  .left_text {
+    text-align: left;
+  }
+
+  .right_text {
+    text-align: right;
+  }
