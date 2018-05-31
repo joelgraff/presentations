@@ -7,11 +7,11 @@
 <br>
 
 @div[left-50]
-[@size[0.5em]({ GitPitch slideshow })](https://gitpitch.com/joelgraff/presentations?p=engineering_opensourced/ispe_june_2018/#/)
+[@size[0.6em]({ GitPitch slideshow })](https://gitpitch.com/joelgraff/presentations?p=engineering_opensourced/ispe_june_2018/#/)
 @divend
 
 @div[right-50]
-[@size[0.5em]({ Github source files })](https://github.com/joelgraff/presentations/tree/master/engineering_opensourced)
+[@size[0.6em]({ Github source files })](https://github.com/joelgraff/presentations/tree/master/engineering_opensourced)
 @divend
 <br><br>
 <span syle="text-size:50%">
