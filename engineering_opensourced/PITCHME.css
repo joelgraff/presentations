@@ -27,6 +27,9 @@
 
   .left_text {
     text-align: left;
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 40%;
   }
 
   .right_text {
