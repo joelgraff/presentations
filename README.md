@@ -6,6 +6,8 @@ Select a presentation folder to access the slideshow and other associted files.
 
 Topics include:
 
+- Engineering, Open Sourced. - Applying open source software to traditional engineering domains, with a focus on transportation engineering.
+  - GitPitch slides: 
 - Designing Highways With 3D CAD - A highway design using Bentley Microstation and parametric 3D modeling
   - Video: https://www.youtube.com/channel/UCFYAsW-4AWzWB9cndnNJHyQ/videos
 
