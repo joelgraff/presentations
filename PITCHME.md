@@ -1,5 +1,6 @@
 ### Presentations
 
+<span style="font-size:75%">
 This is my github repository for presentations I've given.
 
 Topics include:
@@ -13,3 +14,4 @@ Topics include:
 
 - **Thinking Open** - The history and value of open source software for individuals and businesses.
   - Video: https://www.youtube.com/watch?v=qcLORHpagRM
+  </span>
