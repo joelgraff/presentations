@@ -9,15 +9,15 @@
 <br><br>
 <table width=100%>
     <tr class = "links" width=100%>
-        <td>@size[1.0em](Contact:)</td> 
-        <td>@size[1.0em](monograff@kolabnow.com)</td>
+        <td>@size[1.5em](Contact:)</td> 
+        <td>@size[1.5em](monograff@kolabnow.com)</td>
     </tr>
     <tr class = "links" width=100%>
-        <td>@size[1.0em](Slideshow:)</td>
-        <td>@size[1.0em](https://gitpitch.com/joelgraff/presentations?p=engineering_opensourced/ispe_june_2018/#/)</td>
+        <td>@size[1.5em](Slideshow:)</td>
+        <td>@size[1.5em](https://bit.ly/2soxyNt)</td>
     </tr>
     <tr class = "links" width=100%>
-        <td>@size[1.0em](LinkedIn:)</td>
-        <td>@size[1.0em](https://linkedin.com/in/joelcgraff)</td>
+        <td>@size[1.5em](LinkedIn:)</td>
+        <td>@size[1.5em](https://linkedin.com/in/joelcgraff)</td>
     </tr>
 </table>
