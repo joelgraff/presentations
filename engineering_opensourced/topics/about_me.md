@@ -8,6 +8,7 @@
 - Owner, Think Open, LLC
 <br><br>
 <table width=100%>
+<span style="font-size:75%">
     <tr class = "links">
         <td>@size[1.5em](Contact:)</td> 
         <td>@size[1.5em](monograff@kolabnow.com)</td>
@@ -20,4 +21,5 @@
         <td>@size[1.5em](LinkedIn:)</td>
         <td>@size[1.5em](https://linkedin.com/in/joelcgraff)</td>
     </tr>
+</span>
 </table>
