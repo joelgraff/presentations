@@ -6,9 +6,9 @@
 - 3D modeling
 - Software development
 - Owner, Think Open, LLC
-<br>
+<br><br>
 <table>
-<span style = "font-size:75%">
+<span style = "font-size:%">
     <tr class = "links">
         <td>Contact:</td> 
         <td>monograff@kolabnow.com</td>
