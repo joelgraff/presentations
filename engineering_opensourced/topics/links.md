@@ -1,3 +1,4 @@
+@title(Links, Page 1)
 ## Links
 <table>
 
@@ -69,6 +70,7 @@
 </table>
 
 +++
+@title(Links, Page 2)
 ## LINKS
 
 <table>
