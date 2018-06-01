@@ -27,12 +27,16 @@
 @title[Architecture Example]
 
 +++?image=engineering_opensourced/assets/images/turboprop.png&size=contain
+@title[Mechanical Example]
 
 +++?image=engineering_opensourced/assets/images/ped_bridge.png&size=contain
+@title[Civil Example, Page 1]
 
 +++?image=engineering_opensourced/assets/images/bridge_fem.png&size=contain
+@title[Civil Example, Page 2]
 
 +++?image=engineering_opensourced/assets/images/bridge_cfd.png&size=contain
+@title[Civil Example, Page 3]
 
 +++
 ## Demonstration
