@@ -8,7 +8,7 @@
 - Owner, Think Open, LLC
 <br><br>
 <table>
-<span style = "font-size:150%">
+<span style = "font-size:250%">
     <tr class = "links">
         <td>Contact:</td> 
         <td>monograff@kolabnow.com</td>
