@@ -3,8 +3,9 @@
 @size[0.6em](Copyright 2018, CC-BY-4.0 [License](https://github.com/joelgraff/presentations/license.md))
 
 <br>
-[Engineering, Open Sourced.](https://gitpitch.com/joelgraff/presentations/?p=engineering_opensourced)
-[Designing Highways With 3D CAD](https://gitpitch.com/joelgraff/presentations/?p=designing_highways_with_3d_cad)
+[Engineering, Open Sourced.](https://gitpitch.com/joelgraff/presentations/?p=engineering_opensourced/#/)
+<br>
+[Designing Highways With 3D CAD](https://gitpitch.com/joelgraff/presentations/?p=designing_highways_with_3d_cad/#/)
 **Designing Highways With 3D CAD**
 
 <span style = "font-size:35%">
