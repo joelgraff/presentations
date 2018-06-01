@@ -10,10 +10,10 @@
 <table width=100%>
     <tr class = "links">
         <td>@size[2.0em](Contact:)</td> 
-        <td>monograffkolabnow.com</td>
+        <td>@size[2.0em](monograffkolabnow.com)</td>
     </tr>
     <tr class = "links">
-        <td>Presentations: </td>
-        <td>https://gitpitch.com/joelgraff/presentations</td>
+        <td>@size[2.0em](Presentations:)</td>
+        <td>@size[2.0em](https://gitpitch.com/joelgraff/presentations)</td>
     </tr>
 </table>
