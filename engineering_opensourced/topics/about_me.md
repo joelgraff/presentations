@@ -7,7 +7,7 @@
 - Software development
 - Owner, Think Open, LLC
 <br><br>
-<table>
+<table width=100%>
 <span style = "font-size:250%">
     <tr class = "links">
         <td>Contact:</td> 
