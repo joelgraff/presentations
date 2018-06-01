@@ -117,37 +117,37 @@
 <table>
 
   <tr>
-    <td colspan="4" align="center">Referenced Images</td>
+    <td colspan="4" align="center">FreeCAD Images and Video</td>
   </tr>
 
   <tr class="links">
-    <td>FreeCAD Architecture Example</td>
+    <td>Architecture Example</td>
     <td>FreeCAD Wiki</td>
     <td>https://www.freecadweb.org/wiki/Arch_tutorial</td>
   </tr>
 
   <tr class="links">
-    <td>FreeCAD Mechanical Example</td>
+    <td>Mechanical Example</td>
     <td>designed by user ppemawm</td>
-    <td>https://forum.freecadweb.org/viewtopic.php?f=24&t=27878</td>
+    <td>https://bit.ly/2snQqff</td>
   </tr>
 
   <tr class="links">
-    <td>FreeCAD Civil Example</td>
+    <td>Civil Example</td>
     <td>designed by user HarryvL</td>
-    <td>https://forum.freecadweb.org/viewtopic.php?f=18&t=27987</td>
+    <td>https://bit.ly/2Jmoh1U</td>
   </tr>
 
   <tr class="links">
-    <td>FreeCAD Swept Path Video</td>
+    <td>Swept Path Video</td>
     <td>posted by user microelly</td>
-    <td>https://www.youtube.com/watch?v=SBsuudzi0x0</td>
+    <td>https://bit.ly/2soj9AA</td>
   </tr>
 
   <tr class="links">
-    <td>FreeCAD Arduino Video</td>
+    <td>sArduino Video</td>
     <td>"FreeCAD + Arduino" by Javier Martinez</td>
-    <td>http://linuxforanengineer.blogspot.com/2014/07/freecad-arduino.html/td>
+    <td>https://bit.ly/2LOHnMt</td>
   </tr>
 
 </table>
