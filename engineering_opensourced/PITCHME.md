@@ -11,7 +11,7 @@
 @divend
 
 @div[right-50]
-[@size[0.6em]({ Github source files })](https://github.com/joelgraff/presentations/tree/master/engineering_opensourced)
+[@size[0.6em]({ Github files })](https://github.com/joelgraff/presentations/tree/master/engineering_opensourced)
 @divend
 <br><br>
 <span syle="text-size:50%">
