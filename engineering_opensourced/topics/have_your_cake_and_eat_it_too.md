@@ -1,3 +1,4 @@
+@title[What's in a EULA?]
 <span style="font-size:150%">
 So what's in a **EULA**?
 </span>
@@ -6,7 +7,7 @@ So what's in a **EULA**?
 That depends on who you ask.
 
 +++
-
+@title[Funny things...]
 <span style="font-size:150%">
 Some <br><br>
 **funny things**<br><br>
@@ -14,18 +15,18 @@ end up in EULAs . . .
 </span>
 
 +++
-
+@title[Apple EULA]
 **Apple** is very clear that<br>
 that you cannot use iTunes<br>
-to create<br><br>
+to create<br>
 <span style="font-size:150%">
-***Weapons of Mass Destruction***
+_Weapons of Mass Destruction_
 <br><br><br>
 <span style="font-size: 50%">
 [iTunes EULA, Part (G)(g)](https://www.apple.com/legal/internet-services/itunes/us/terms.html)
 </span>
 +++
-
+@title[Google EULA]
 and **Google** says they<br>
 <span style="font-size:150%">
 **read your email**,<br>
@@ -41,11 +42,11 @@ on their services for their purposes.
 [Google Terms of Service, "Your Content in our Services"](https://policies.google.com/terms)
 </span>
 +++
-
+@title[Facebook EULA 1]
 ## don't forget **Facebook**
 
 +++
-
+@title[Facebook EULA 2]
 Security researchers have established
 <br><br><br>
 <span style="font-size:150%">
@@ -60,13 +61,13 @@ to advertise to you.
 </span>
 
 +++
-
+@title[EULA Moral]
 <span style="font-size:150%">
 The moral of the story?
 </span>
 
 +++
-
+@title[Proprietary Privacy]
 <span style="font-size:150%">
 If you use **proprietary** technology,
 <br><br>
@@ -74,7 +75,7 @@ your data is not private.
 </span>
 
 ---
-
+@title[Why FOSS Matters]
 This is why
 <span style = "font-size:150%">
 <br>
@@ -85,7 +86,7 @@ This is why
 matters.
 
 +++
-
+@title[FOSS Licensing]
 <span style="font-size:150%">
 FOSS is freely licensed.
 </span>
@@ -128,7 +129,7 @@ GNU Public License (GPL)
 </span>
 
 +++
-
+@title[Have your cake...]
 In other words,<br><br>
 
 <span style="font-size:150%">

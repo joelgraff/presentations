@@ -1,5 +1,4 @@
-[/]: # "why_open_source_engineering"
-
+@title[Why FOSS in Engineering?]
 <span style="font-size:150%">
 So why develop and use<br>
 open source software<br>
@@ -7,7 +6,7 @@ in engineering?<br>
 </span>
 
 +++
-
+@title[Sound engineering...]
 #### **Reason #1:**
 <br>
 Sound engineering
@@ -18,7 +17,7 @@ someone else's
 </span>
 
 +++
-
+@title[Domestic softare...]
 #### **Reason #2:**
 <br>
 

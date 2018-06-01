@@ -8,7 +8,7 @@ how can it be good?"<br><br>
 (you get what you pay for)
 
 +++
-
+@title[Free as in freedom]
 <span style="font-size: 150%">
 When we speak of free,<br> 
 we mean free as in **freedom**
@@ -17,7 +17,7 @@ we mean free as in **freedom**
 _(Free Beer vs. Free Speech)_
 
 +++
-
+@title[Competence]
 <span style="font-size:150%">
 Many FOSS projects<br>
 are actively developed<br>
@@ -26,7 +26,7 @@ and other **domain experts**
 </span>
 
 +++
-
+@title[Support]
 <span style="font-size:150%">
 Paid support<br>
 is often available<br><br>
