@@ -17,7 +17,7 @@
     <td>YouTube Tutorials</td>
     <td>https://goo.gl/Tvbi2x</td>
     <td>AequilibraE</td>
-    <td>https://aequilibrae.com<td>
+    <td>https://aequilibrae.org<td>
   </tr>
 
   <tr class = "links">
@@ -31,16 +31,16 @@
 
   <tr class="links">
     <td>KiCad</td>
-    <td>https://kicad-pcb.org</td>
+    <td>http://kicad-pcb.org</td>
     <td>LibreCAD</td>
     <td>https://librecad.org<td>
   </tr>
 
   <tr class="links">
     <td>BRL CAD</td>
-    <td>https://brlcad</td>
+    <td>https://brlcad.org</td>
     <td>OpenSCAD</td>
-    <td>https://openscad.com<td>
+    <td>https://openscad.org<td>
   </tr>
 
   <tr class="links">
@@ -53,12 +53,12 @@
 
   <tr class="links">
     <td>Elmer</td>
-    <td>https://www.csc.fi/web/elmer/elemer</td>
+    <td>https://www.csc.fi/web/elmer</td>
   </tr>
 
   <tr class="links">
     <td>CalculiX</td>
-    <td>https://www.calculix.de</td>
+    <td>http://www.calculix.de/e</td>
   </tr>
 
   <tr class="links">
