@@ -7,6 +7,8 @@
 <br>
 ![Video](https://www.youtube.com/embed/2DKoX7WoAOw)
 <br>
+[@size[0.6em]({ Video })](https://www.youtube.com/embed/2DKoX7WoAOw)
+&nbsp;
 [@size[0.6em]({ Github files })](https://github.com/joelgraff/presentations/tree/master/designing_highways_with_3d_cad)
 
 <br><br>
