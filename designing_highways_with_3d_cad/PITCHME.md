@@ -5,7 +5,7 @@
 <br>
     @size[0.6em](3D CAD is transforming the way traditional engineering gets done.  Transportation engineering is no exception.  This presentation explores how 3D parametric modeling using Bentley Microstation is being implemented at the Illinois Department of Transportation)
 
-![Video](https://www.youtube.com/watch?v=2DKoX7WoAOw)
+![Video](https://www.youtube.com/embed/2DKoX7WoAOw)
 
 <br>
 
