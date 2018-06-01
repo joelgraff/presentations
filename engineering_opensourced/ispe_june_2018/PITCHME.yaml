@@ -3,3 +3,4 @@ layout: center
 transition : convex
 theme-override : /engineering_opensourced/assets/css/PITCHME.css
 published : true
+logo : /engineering_opensourced/assets/images/logo.png
