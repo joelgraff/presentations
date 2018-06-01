@@ -9,11 +9,11 @@
 <br><br>
 <table width=100%>
     <tr class = "links">
-        <td>@size[2.0em](Contact:)</td> 
-        <td>@size[2.0em](monograff@kolabnow.com)</td>
+        <td>@size[1.5em](Contact:)</td> 
+        <td>@size[1.5em](monograff@kolabnow.com)</td>
     </tr>
     <tr class = "links">
-        <td>@size[2.0em](Presentations:)</td>
-        <td>@size[2.0em](https://gitpitch.com/joelgraff/presentations)</td>
+        <td>@size[1.5em](Presentations:)</td>
+        <td>@size[1.5em](https://gitpitch.com/joelgraff/presentations)</td>
     </tr>
 </table>
