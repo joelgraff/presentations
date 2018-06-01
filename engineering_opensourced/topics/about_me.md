@@ -14,7 +14,8 @@
         <td>monograff@kolabnow.com</td>
     </tr>
     <tr class = "links">
-        <td>Presentations: https://gitpitch.com/joelgraff/presentations</td>
+        <td>Presentations: </td>
+        <td>https://gitpitch.com/joelgraff/presentations</td>
     </tr>
 </span>
 </table>
