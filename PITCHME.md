@@ -3,15 +3,8 @@
 @size[0.6em](Copyright 2018, CC-BY-4.0 [License](https://github.com/joelgraff/presentations/license.md))
 
 <br>
-[Engineering, Open Sourced.](https://gitpitch.com/joelgraff/presentations/engineering_opensourced?p=engineering_opensourced)
-
-[{slideshow}](https://gitpitch.com/joelgraff/presentations?p=engineering_opensourced/ispe_june_2018/#/)
-[{github}](https://github.com/joelgraff/presentations/tree/master/engineering_opensourced)
-
-<span style="font-size:50%">
-  Applying open source software to traditional engineering domains, with a focus on transportation engineering.
-</span>
-
+[Engineering, Open Sourced.](https://gitpitch.com/joelgraff/presentations/?p=engineering_opensourced)
+[Designing Highways With 3D CAD](https://gitpitch.com/joelgraff/presentations/?p=designing_highways_with_3d_cad)
 **Designing Highways With 3D CAD**
 
 <span style = "font-size:35%">
