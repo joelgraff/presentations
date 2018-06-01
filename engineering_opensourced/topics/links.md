@@ -81,14 +81,14 @@
     <td>LibreOffice</td>
     <td>https://www.libreoffice.org</td>
     <td>Krita</td>
-    <td><td>
+    <td>https://www.krita.org<td>
   </tr>
 
   <tr class="links">
     <td>Collabora Online</td>
     <td>https://www.collaboraoffice.com</td>
     <td>Blender</td>
-    <td><td>
+    <td>https://www.blender.org<td>
   </tr>
 
   <tr class="links">
