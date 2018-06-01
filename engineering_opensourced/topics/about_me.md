@@ -13,7 +13,7 @@
         <td>@size[1.0em](monograff@kolabnow.com)</td>
     </tr>
     <tr class = "links" width=100%>
-        <td>@size[1.0em](Live Slideshow:)</td>
+        <td>@size[1.0em](Slideshow:)</td>
         <td>@size[1.0em](https://gitpitch.com/joelgraff/presentations?p=engineering_opensourced/ispe_june_2018/#/)</td>
     </tr>
     <tr class = "links" width=100%>
