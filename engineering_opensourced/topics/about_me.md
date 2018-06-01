@@ -7,8 +7,14 @@
 - Software development
 - Owner, Think Open, LLC
 <br>
-
-<span style="font-size: 75%">
-- Contact: monograff@kolabnow.com<br>
-- Presentations: https://gitpitch.com/joelgraff/presentations
+<table>
+<span style = "font-size:75%">
+    <tr class = "links">
+        <td>Contact:</td> 
+        <td>monograff@kolabnow.com</td>
+    </tr>
+    <tr class = "links">
+        <td>Presentations: https://gitpitch.com/joelgraff/presentations</td>
+    </tr>
 </span>
+</table>
