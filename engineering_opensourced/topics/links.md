@@ -70,7 +70,7 @@
 
 </table>
 
-+++
+---
 @title[Links 2]
 ## LINKS
 <br>
