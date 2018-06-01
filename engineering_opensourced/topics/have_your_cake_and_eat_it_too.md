@@ -19,8 +19,7 @@ end up in EULAs . . .
 **Apple** is very clear that<br>
 that you cannot use iTunes<br>
 to create<br>
-<span style="font-size:150%">
-_Weapons of Mass Destruction_
+***Weapons of mass destruction***
 <br><br><br>
 <span style="font-size: 50%">
 [iTunes EULA, Part (G)(g)](https://www.apple.com/legal/internet-services/itunes/us/terms.html)

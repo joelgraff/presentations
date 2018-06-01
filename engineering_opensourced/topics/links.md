@@ -1,6 +1,6 @@
 @title[Links, Page 1]
 ## Links
-<br>
+
 <table>
 
   <tr>
