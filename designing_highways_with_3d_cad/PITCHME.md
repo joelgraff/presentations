@@ -1,4 +1,4 @@
-### Engineering, Open Sourced.
+### Designing Highways with 3D CAD
 @size[1.0em](Joel Graff, PE)<br>
 @size[0.6em](Copyright 2018, CC-BY-4.0 [License](https://github.com/joelgraff/presentations/license.md))
 
@@ -13,7 +13,7 @@
 <br>
 
 @div[left-50]
-[@size[0.6em]({ video })](https://www.youtube.com/channel/UCFYAsW-4AWzWB9cndnNJHyQ/videos)
+[@size[0.6em]({ video })](https://www.youtube.com/watch?v=2DKoX7WoAOw)
 @divend
 
 @div[right-50]
