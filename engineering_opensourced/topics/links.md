@@ -145,7 +145,7 @@
   </tr>
 
   <tr class="links">
-    <td>sArduino Video</td>
+    <td>Arduino Video</td>
     <td>"FreeCAD + Arduino" by Javier Martinez</td>
     <td>https://bit.ly/2LOHnMt</td>
   </tr>
