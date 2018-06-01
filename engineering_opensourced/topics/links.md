@@ -123,7 +123,7 @@
   <tr class="links">
     <td>Architecture Example</td>
     <td>FreeCAD Wiki</td>
-    <td>https://www.freecadweb.org/wiki/Arch_tutorial</td>
+    <td>https://bit.ly/2J113PM</td>
   </tr>
 
   <tr class="links">
