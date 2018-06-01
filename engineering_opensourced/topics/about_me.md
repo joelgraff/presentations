@@ -1,3 +1,4 @@
+@title[About Joel Graff]
 ### Joel Graff, PE
 <br><br>
 @size[0.8em]()

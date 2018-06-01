@@ -24,6 +24,7 @@
 @divend
 
 +++?image=engineering_opensourced/assets/images/architecture.png&size=contain
+@title[Architecture Example]
 
 +++?image=engineering_opensourced/assets/images/turboprop.png&size=contain
 
