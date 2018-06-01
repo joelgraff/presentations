@@ -13,8 +13,8 @@
         <td>@size[1.5em](monograff@kolabnow.com)</td>
     </tr>
     <tr class = "links">
-        <td>@size[1.5em](Presentations:)</td>
-        <td>@size[1.5em](https://gitpitch.com/joelgraff/presentations)</td>
+        <td>@size[1.5em](Live Slideshow:)</td>
+        <td>@size[1.5em](https://gitpitch.com/joelgraff/presentations?p=engineering_opensourced/ispe_june_2018/#/)</td>
     </tr>
     <tr class = "links">
         <td>@size[1.5em](LinkedIn:)</td>
