@@ -2,4 +2,4 @@ theme : sky
 layout: center
 transition : convex
 theme-override : /engineering_opensourced/assets/css/PITCHME.css
-publish : true
+published : true
