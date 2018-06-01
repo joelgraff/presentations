@@ -16,4 +16,8 @@
         <td>@size[1.5em](Presentations:)</td>
         <td>@size[1.5em](https://gitpitch.com/joelgraff/presentations)</td>
     </tr>
+    <tr class = "links">
+        <td>@size[1.5em](LinkedIn:)</td>
+        <td>@size[1.5em](https://linkedin.com/in/joelcgraff)</td>
+    </tr>
 </table>
