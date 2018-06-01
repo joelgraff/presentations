@@ -2,4 +2,4 @@
 
 Gitpitch presentation link:
 
-https://gitpitch.com/joelgraff/presentations/engineering_opensourced?p=engineering_opensourced
+https://gitpitch.com/joelgraff/presentations?p=engineering_opensourced/ispe_june_2018#/
