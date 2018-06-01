@@ -1,5 +1,6 @@
-@title(Links, Page 1)
+@title[Links, Page 1]
 ## Links
+<br>
 <table>
 
   <tr>
@@ -70,9 +71,9 @@
 </table>
 
 +++
-@title(Links, Page 2)
+@title[Links, Page 2]
 ## LINKS
-
+<br>
 <table>
 
   <tr>
