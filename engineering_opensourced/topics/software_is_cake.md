@@ -1,3 +1,4 @@
+@title[I like cake]
 <span style = "font-size:150%">
 I like coffee cake.<br>
 </span>
@@ -9,12 +10,12 @@ I like coffee cake.<br>
 But **I don't bake**
 </span>
 +++
-
+@title[Bakeries bake]
 <span style="font-size:150%">
 My local bakery makes <br>**really** good cake
 </span>
 +++
-
+@title[Secrets]
 <span style="font-size:150%">
 I can buy the cake,
 <br><br>
@@ -24,7 +25,7 @@ but I can't have the recipe
 (It's a **trade secret**)
 
 +++
-
+@title[Software is cake]
 <span style="font-size:150%">
 **Software** is like **cake.**
 </span>
@@ -37,12 +38,12 @@ but I can't have the recipe
 </ul>
 
 +++
-
+@title[Bakery Licensing 1]
 <span style="font-size:150%">
 One day, I go to the bakery<br>to buy a cake.
 </span>
 +++
-
+@title[Bakery Licensing 2]
 <span style="font-size:125%">
 But before I can pay for it,<br>
 the cashier says,
@@ -53,7 +54,7 @@ the cashier says,
 </span>
 
 +++
-
+@title[Bakery Licensing 3]
 <br><br>
 <span style="font-size:150%">
 I review the **terms**.
@@ -72,12 +73,12 @@ I review the **terms**.
 </ul>
 
 +++
-
+@title[The EULA]
 In software, we call this the<br>
 ## End-User License Agreement (EULA)
 
 +++
-
+@title[Nobody reads the EULA]
 <span style="font-size:125%">
 When you install software,<br>
 The **EULA** is the part<br>
@@ -90,7 +91,7 @@ and click "I Agree"
 </span>
 
 +++
-
+@title[EULA Compliance]
 <span style="font-size:125%">
 And you **must** abide by
 </span>
