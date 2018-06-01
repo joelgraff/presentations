@@ -8,7 +8,7 @@
 @divend
 
 @div[right-50]
-    ![Video](https://www.youtube.com/channel/UCFYAsW-4AWzWB9cndnNJHyQ/videos)
+    ![Video](https://www.youtube.com/watch?v=2DKoX7WoAOw)
 @divend
 <br>
 
