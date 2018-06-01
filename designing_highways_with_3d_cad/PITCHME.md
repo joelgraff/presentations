@@ -15,4 +15,4 @@ Return to [Presentations](https://gitpitch.com/joelgraff/presentations)
 <br>
 Watch the video on the next slide!
 </span>
----?video=https://www.youtube.com/embed/2DKoX7WoAOw
+---?video=https://www.youtube.com/watch?v=2DKoX7WoAOw
