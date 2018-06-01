@@ -10,7 +10,7 @@
 <table width=100%>
     <tr class = "links">
         <td>@size[2.0em](Contact:)</td> 
-        <td>@size[2.0em](monograffkolabnow.com)</td>
+        <td>@size[2.0em](monograff@kolabnow.com)</td>
     </tr>
     <tr class = "links">
         <td>@size[2.0em](Presentations:)</td>
