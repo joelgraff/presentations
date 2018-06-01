@@ -1,15 +1,11 @@
 ### Presentations
 
-<span style="font-size:75%">
 This is my github repository for presentations I've given.
-</span>
 
 @size[0.6em](Engineering, Open Sourced.)
 
-<span style = "font-size:35%">
 [{slideshow}](https://gitpitch.com/joelgraff/presentations?p=engineering_opensourced/ispe_june_2018/#/)
 [{github}](https://github.com/joelgraff/presentations/tree/master/engineering_opensourced)
-</span>
 
 <span style="font-size:50%">
   Applying open source software to traditional engineering domains, with a focus on transportation engineering.
