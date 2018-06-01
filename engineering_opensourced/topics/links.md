@@ -69,21 +69,40 @@
 </table>
 
 +++
+## LINKS
 
-@divend
-FEM<br>
--Elmer (https://www.csc.fi/web/elmer/elmer)<br>
--CalculiX (http://www.calculix.de/)<br>
--OpenFOAM (https://www.openfoam.com/)<br>
-Other FOSS Links:<br>
--LibreOffice<br>
--Collabora Online<br>
--NextCloud<br>
--GIMP<br>
--Inkscape<br>
--Krita<br>
--Blender<br>
-Linux<br>
--Ubuntu<br>
--Fedora<br>
--Suse<br>
+<table>
+
+  <tr>
+    <td colspan="4" align="center">Other Software</td>
+  </tr>
+
+  <tr class="links">
+    <td>LibreOffice</td>
+    <td>https://www.libreoffice.org</td>
+    <td>Krita</td>
+    <td><td>
+  </tr>
+
+  <tr class="links">
+    <td>Collabora Online</td>
+    <td>https://www.collaboraoffice.com</td>
+    <td>Blender</td>
+    <td><td>
+  </tr>
+
+  <tr class="links">
+    <td>NextCloud</td>
+    <td>https://www.nextcloud.com</td>
+    <td>Inkscape</td>
+    <td>https://www.inkscape.org<td>
+  </tr>
+
+  <tr class="links">
+    <td>GIMP</td>
+    <td>https://www.gimp.org</td>
+    <td>Ubuntu</td>
+    <td>https://www.ubuntu.com<td>
+  </tr>
+
+</table>
