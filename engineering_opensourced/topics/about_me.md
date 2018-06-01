@@ -8,7 +8,7 @@
 - Owner, Think Open, LLC
 <br>
 
-<span align="left">
+<span style="align: left">
 Contact: monograff@kolabnow.com<br>
 Presentations: https://gitpitch.com/joelgraff/presentations
 </span>
