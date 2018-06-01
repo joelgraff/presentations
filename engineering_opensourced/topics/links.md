@@ -17,7 +17,7 @@
     <td>YouTube Tutorials</td>
     <td>https://goo.gl/Tvbi2x</td>
     <td>AequilibraE</td>
-    <td>https://aequilibrae.org<td>
+    <td>https://aequilibrae.com<td>
   </tr>
 
   <tr class = "links">
@@ -40,7 +40,7 @@
     <td>BRL CAD</td>
     <td>https://brlcad.org</td>
     <td>OpenSCAD</td>
-    <td>https://openscad.org<td>
+    <td>http://openscad.org<td>
   </tr>
 
   <tr class="links">
@@ -58,7 +58,7 @@
 
   <tr class="links">
     <td>CalculiX</td>
-    <td>http://www.calculix.de/e</td>
+    <td>http://www.calculix.de</td>
   </tr>
 
   <tr class="links">
