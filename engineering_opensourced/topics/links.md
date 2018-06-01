@@ -8,7 +8,7 @@
 
   <tr class="links">
     <td>Website</td>
-    <td>https://www.freecadweb.org</td>
+    <td>https://freecadweb.org</td>
     <td>Website</td>
     <td>https://qgis.org<td>
   </tr>
@@ -17,7 +17,7 @@
     <td>YouTube Tutorials</td>
     <td>https://goo.gl/Tvbi2x</td>
     <td>AequilibraE</td>
-    <td>https://aequillibrae.com<td>
+    <td>https://aequilibrae.com<td>
   </tr>
 
   <tr class = "links">
@@ -31,16 +31,16 @@
 
   <tr class="links">
     <td>KiCad</td>
-    <td>https://www.freecadweb.org</td>
+    <td>https://kicad-pcb.org</td>
     <td>LibreCAD</td>
-    <td>https://qgis.org<td>
+    <td>https://librecad.org<td>
   </tr>
 
   <tr class="links">
     <td>BRL CAD</td>
-    <td>https://goo.gl/Tvbi2x</td>
+    <td>https://brlcad</td>
     <td>OpenSCAD</td>
-    <td>https://aequillibrae.com<td>
+    <td>https://openscad.com<td>
   </tr>
 
   <tr class="links">
